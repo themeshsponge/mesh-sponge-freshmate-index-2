@@ -336,8 +336,9 @@
           "699664fc-b63d-4f39-9b92-df5424965414": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Organic Vegetables",
-              "desc": ""
+              "name_item": "Bath Sponges",
+              "desc": "",
+              "icon_menus": "shopify://shop_images/bath-sponges.png"
             }
           },
           "ad413d0e-e2cc-4f42-9e92-192f79f66ed8": {
