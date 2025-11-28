@@ -464,7 +464,7 @@
           "ee472781-df32-4e69-8347-7d88757b6741": {
             "type": "block_menu",
             "settings": {
-              "block_title": "CUSTOMER CARE",
+              "block_title": "Policies",
               "menu_handle": "customer-care-footer-menu",
               "block_class": "mt-sm-20",
               "grid_xl": "col-xl-2",
