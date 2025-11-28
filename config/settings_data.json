@@ -472,18 +472,6 @@
               "grid_sm": "col-sm-6"
             }
           },
-          "block_menu_VCNhFx": {
-            "type": "block_menu",
-            "settings": {
-              "block_title": "Policies",
-              "menu_handle": "customer-care-footer-menu",
-              "block_class": "",
-              "grid_xl": "col-xl-3",
-              "grid_lg": "col-lg-3",
-              "grid_md": "col-md-3",
-              "grid_sm": "col-sm-3"
-            }
-          },
           "53549ed7-50a5-4657-be39-458f238f5bc2": {
             "type": "block_newsletter",
             "settings": {
@@ -501,7 +489,6 @@
           "c76cbe48-7520-4d29-ba20-3ddd2e193afb",
           "bc269370-9ae4-4042-82c6-1fc53d71deb6",
           "ee472781-df32-4e69-8347-7d88757b6741",
-          "block_menu_VCNhFx",
           "53549ed7-50a5-4657-be39-458f238f5bc2"
         ],
         "settings": {
