@@ -42,7 +42,8 @@
     "type_sidebar": "sidebar_left",
     "type_sidebar_product": "default",
     "enable_rtl": false,
-    "show_newsletter_popup": true,
+    "show_newsletter_popup": false,
+    "newsletter_sm": false,
     "newsletter_type": "newsletter",
     "preferences_newsletter": false,
     "title_newsletter": "NEWSLETTER",
@@ -337,8 +338,7 @@
             "type": "icon_menu",
             "settings": {
               "name_item": "Bath Sponges",
-              "desc": "",
-              "icon_menus": "shopify://shop_images/bath-sponges.png"
+              "desc": ""
             }
           },
           "ad413d0e-e2cc-4f42-9e92-192f79f66ed8": {
