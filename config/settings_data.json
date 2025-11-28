@@ -268,7 +268,7 @@
               "link_4": "shopify://collections/frontpage",
               "name_collec_5": "",
               "link_5": "",
-              "product_enable": false,
+              "product_enable": true,
               "product_xl": "col-xl-4",
               "product_lg": "col-lg-4",
               "title_product": "Featured Product",
