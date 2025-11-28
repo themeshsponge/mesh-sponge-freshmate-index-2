@@ -280,10 +280,9 @@
           },
           "9cd4537f-f297-4926-879c-1e51210b4586": {
             "type": "text",
-            "disabled": true,
             "settings": {
-              "title": "Products",
-              "novmenu_item": "Products",
+              "title": "Discover",
+              "novmenu_item": "Discover",
               "desc": "",
               "fw": true,
               "novmenu_menu_enable": true,
