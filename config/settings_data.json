@@ -399,7 +399,8 @@
         "settings": {
           "bg": "#00361e",
           "bg_opacity": 100,
-          "w_logo": 134,
+          "logo": "shopify://shop_images/Mesh_Sponge_Logo_Black_500_x_150_px.svg",
+          "w_logo": 250,
           "wm_logo": 100,
           "phone_icon": "rbb-icon-phone-4",
           "phone": "0123-456-7890",
