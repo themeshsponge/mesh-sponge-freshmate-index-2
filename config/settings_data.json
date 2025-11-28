@@ -473,6 +473,18 @@
               "grid_sm": "col-sm-6"
             }
           },
+          "block_menu_xH6wyL": {
+            "type": "block_menu",
+            "settings": {
+              "block_title": "HELP",
+              "menu_handle": "customer-care-footer-menu",
+              "block_class": "mt-sm-20",
+              "grid_xl": "col-xl-2",
+              "grid_lg": "col-lg-2",
+              "grid_md": "col-md-2",
+              "grid_sm": "col-sm-6"
+            }
+          },
           "53549ed7-50a5-4657-be39-458f238f5bc2": {
             "type": "block_newsletter",
             "settings": {
@@ -490,6 +502,7 @@
           "c76cbe48-7520-4d29-ba20-3ddd2e193afb",
           "bc269370-9ae4-4042-82c6-1fc53d71deb6",
           "ee472781-df32-4e69-8347-7d88757b6741",
+          "block_menu_xH6wyL",
           "53549ed7-50a5-4657-be39-458f238f5bc2"
         ],
         "settings": {
