@@ -352,8 +352,9 @@
           "b8fe9fdf-4701-4d4e-8366-b20cb0ad190d": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Salmon",
-              "desc": ""
+              "name_item": "Body Brush",
+              "desc": "",
+              "icon_menus": "shopify://shop_images/cleaning-brush.png"
             }
           },
           "1ba9948e-f5f4-4bf5-8d9f-8101cba79e0a": {
