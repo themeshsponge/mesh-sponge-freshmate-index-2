@@ -1,0 +1,321 @@
+{% assign sst = section.settings %}
+<div class="distance{% if sst.class != blank %} {{ sst.class }}{% endif %}{% if sst.animate == true %} wow fadeInUp animated{% endif %}" data-section-id="{{ section.id }}" data-section-type="nov-slick">
+  {% if sst.container == 'container' %}
+    <div class="container">
+  {% elsif sst.container == 'container-fluid' %}
+    <div class="container-fluid">
+  {% else %}
+    <div class="container-full">
+  {% endif %}
+    {% if sst.heading != blank or sst.subheading != blank %}
+      <div class="title_section text-center">
+        <span class="title" style="color: {{ sst.heading_c }};">{{ sst.heading }}</span>
+        {% if sst.subheading != blank %}
+          <span class="sub_title" style="color: {{ sst.subheading_c }};">{{ sst.subheading }}</span>
+        {% endif %}
+      </div>
+    {% endif %}
+    {% if sst.countdown_timeend != blank %}
+      <div class="countdownfree d-flex justify-content-center mb-lg-30" data-countdown="{{ sst.countdown_timeend }}" data-show-days="true" data-restart="{{ settings.restart }}"></div>
+    {% else %}
+      <div class="countdownfree d-flex justify-content-center">
+        <div class="item-time"><span class="data-number">24</span><span class="name-time">Days</span></div>
+        <div class="item-time"><span class="data-number">09</span><span class="name-time">Hours</span></div>
+        <div class="item-time"><span class="data-number">28</span><span class="name-time">Mins</span></div>
+        <div class="item-time"><span class="data-number">21</span><span class="name-time">Secs</span></div>
+      </div>
+    {% endif %}
+    {% if sst.btn != blank %}
+      <div class="text-center mt-50"><a href="{{ sst.btn_link }}" class="btn btn-large">{{ sst.btn }}</a></div>
+    {% endif %}
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Vinova Countdown",
+    "class": "section-countdown",
+    "settings": [
+      {
+        "type": "inline_richtext",
+        "id": "heading",
+        "label": "Heading",
+        "default": "Vinova Countdown"
+      },
+      {
+        "type": "color",
+        "id": "heading_c",
+        "label": "Heading color",
+        "default": "#222222"
+      },
+      {
+        "type": "color",
+        "id": "heading_hl",
+        "label": "Text bold color",
+        "default": "#444444"
+      },
+      {
+        "type": "richtext",
+        "id": "subheading",
+        "label": "Sub heading",
+        "default": "<p>Subtitle from happy customers</p>"
+      },
+      {
+        "type": "color",
+        "id": "subheading_c",
+        "label": "Sub heading color",
+        "default": "#666666"
+      },
+      {
+        "type": "header",
+        "content": "Countdown time"
+      },
+      {
+        "type": "text",
+        "id": "countdown_timeend",
+        "label": "Time end product",
+        "placeholder": "YYYY\/MM\/DD"
+      },
+      {
+        "type": "paragraph",
+        "content": "Format: 'Year\/Month\/Day'"
+      },
+      {
+        "type": "paragraph",
+        "content": "Example: '2022\/01\/30'"
+      },
+      {
+        "type": "color",
+        "id": "c_cd",
+        "label": "Color",
+        "default": "#222"
+      },
+      {
+        "type": "header",
+        "content": "Button"
+      },
+      {
+        "type": "text",
+        "id": "btn",
+        "label": "Button",
+        "default": "Shop now"
+      },
+      {
+        "type": "url",
+        "id": "btn_link",
+        "label": "Button link"
+      },
+      {
+        "type": "color",
+        "id": "c_btn",
+        "label": "Button color",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "b_btn",
+        "label": "Button background color",
+        "default": "#222222"
+      },
+      {
+        "type": "color",
+        "id": "c_btn_h",
+        "label": "Button color hover",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "b_btn_h",
+        "label": "Button background color hover",
+        "default": "#222222"
+      },
+      {
+        "type":  "header",
+        "content": "Design Option"
+      },
+      {
+        "type": "select",
+        "id": "container",
+        "label": "Container",
+        "default": "container",
+        "options": [
+          { "value": "container", "label": "Container" },
+          { "value": "container-fluid", "label": "Container fluid" },
+          { "value": "container-full", "label": "Container full width" }
+        ]
+      },
+      {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background Colors",
+        "default": "#ffffff"
+      },
+      {
+        "type": "image_picker",
+        "id": "background_image",
+        "label": "Background Image"
+      },
+      {
+        "type": "text",
+        "id": "class",
+        "label": "Class"
+      },
+      {
+        "type": "header",
+        "content": "Spacing"
+      },
+      {
+        "type": "paragraph",
+        "content": "======= Spacing top ======="
+      },
+      {
+        "type": "number",
+        "id": "distance_top_xxl",
+        "label": "Extra desktop",
+        "info": "Breakpoint 1440px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_top_xl",
+        "label": "Large desktop",
+        "info": "Breakpoint 1200px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_top_lg",
+        "label": "Desktop",
+        "info": "Breakpoint 992px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_top_md",
+        "label": "Tablet",
+        "info": "Breakpoint 768px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_top_sm",
+        "label": "Large mobile",
+        "info": "Breakpoint 576px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_top",
+        "label": "Mobile",
+        "default": 30
+      },
+      {
+        "type": "paragraph",
+        "content": "======= Spacing bottom ======="
+      },
+      {
+        "type": "number",
+        "id": "distance_bottom_xxl",
+        "label": "Extra desktop",
+        "info": "Breakpoint 1440px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_bottom_xl",
+        "label": "Large desktop",
+        "info": "Breakpoint 1200px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_bottom_lg",
+        "label": "Desktop",
+        "info": "Breakpoint 992px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_bottom_md",
+        "label": "Tablet",
+        "info": "Breakpoint 768px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_bottom_sm",
+        "label": "Large mobile",
+        "info": "Breakpoint 576px ↑",
+        "default": 30
+      },
+      {
+        "type": "number",
+        "id": "distance_bottom",
+        "label": "Mobile",
+        "default": 30
+      }
+    ],
+    "presets": [
+      {
+        "name": "Vinova Countdown",
+        "category": "Promotional"
+      }
+    ]
+  }
+{% endschema %}
+<style>
+  {%- assign bg_image = sst.background_image -%}
+  {%- assign bg_color = sst.background_color -%}
+  #shopify-section-{{ section.id }} .distance {
+    {% if bg_color != blank or bg_image != blank -%}
+      background: {{ bg_color }} url("{{ bg_image | img_url: '1920x' }}") no-repeat center top;
+      background-size: cover;
+    {%- endif -%}
+    padding-top: {{ sst.distance_top }}px;
+    padding-bottom: {{ sst.distance_bottom }}px;
+  }
+  #shopify-section-{{ section.id }} .title_section .title strong {
+    color:  {{ sst.heading_hl }};
+  }
+  #shopify-section-{{ section.id }} .countdownfree .item-time, #shopify-section-{{ section.id }} .countdownfree .item-time:after {
+    color:  {{ sst.c_cd }};
+  }
+  #shopify-section-{{ section.id }} .btn {
+    color: {{ sst.c_btn }};
+    background-color: {{ sst.b_btn }};
+  }
+  #shopify-section-{{ section.id }} .btn:hover {
+    color: {{ sst.c_btn_h }} !important;
+    background-color: {{ sst.b_btn_h }} !important;
+  }
+  @media(min-width:  576px) {
+    #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top_sm }}px;
+      padding-bottom: {{ sst.distance_bottom_sm }}px;
+    }
+  }
+  @media(min-width:  768px) {
+    #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top_md }}px;
+      padding-bottom: {{ sst.distance_bottom_md }}px;
+    }
+  }
+  @media(min-width:  992px) {
+    #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top_lg }}px;
+      padding-bottom: {{ sst.distance_bottom_lg }}px;
+    }
+  }
+  @media(min-width:  1200px) {
+    #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top_xl }}px;
+      padding-bottom: {{ sst.distance_bottom_xl }}px;
+    }
+  }
+  @media(min-width:  1441px) {
+    #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top_xxl }}px;
+      padding-bottom: {{ sst.distance_bottom_xxl }}px;
+    }
+  }
+</style>

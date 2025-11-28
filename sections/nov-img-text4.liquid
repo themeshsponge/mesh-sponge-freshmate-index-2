@@ -1,0 +1,264 @@
+{% assign sst = section.settings %}
+{%- capture container -%}
+  {{- sst.container -}}
+{%- endcapture -%}
+
+{%- style -%}
+
+   #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top | append: 'px' }};
+      padding-bottom: {{ sst.distance_bottom | append: 'px' }};
+      {% if sst.background_color != blank %}
+      background-color: {{ sst.background_color }};
+      {% endif %}
+      {% if bg_image.src != blank %}
+      background-image: url("{{ bg_image | img_url: '1920x' }}");background-repeat: no-repeat;background-size: cover;
+      {% endif %}
+   }
+   @media(max-width: 1199px) {
+      #shopify-section-{{ section.id }} .distance {
+         {% if sst.distance_top > 60 %}padding-top: {{ sst.distance_top | times: 0.6 | round: 0 | append: 'px;' }} {% else %} padding-top: {{ sst.distance_top | append: 'px;'}}; {% endif %}
+         {% if sst.distance_bottom > 60 %}padding-bottom: {{ sst.distance_bottom | times: 0.6 | round: 0 | append: 'px;' }}{% else %} padding-top: {{ sst.distance_top | append: 'px;'}}; {% endif %}
+      }
+   }
+   #shopify-section-{{ section.id }} .heading-block .title{
+      color: {{ sst.heading_c }};
+      font-weight: 700;
+      text-transform: capitalize;
+      font-size: 3.4rem;
+      margin-bottom: 13px;
+   }
+   #shopify-section-{{ section.id }} .heading-block .title p{
+      margin-bottom: 4px;
+   }
+   #shopify-section-{{ section.id }} .heading-block .sub_title{
+      color: {{ sst.subheading_c }};
+      font-weight: 400;
+      font-size: 1.4rem;
+      line-height: 24px;
+   }
+
+{% endstyle %}
+<div class="distance{% if sst.class != blank %} {{ sst.class }}{% endif %}{% if sst.animate == true %} wow fadeInUp animated{% endif %}">
+   <div  class="{{ container }}">
+      <div class="row d-flex align-items-center justify-content-between">
+            <div class="col-lg-5">
+                  <div class="heading-block {{ sst.block_alignment }}">
+                     {% if sst.heading != blank %}
+                        <span class="title">{{ sst.heading }}</span>
+                     {% endif %}
+                     {% if sst.subheading != blank %}
+                        <span class="sub_title">{{ sst.subheading }}</span>
+                     {% endif %}
+                  </div>
+                  <div class="content-block-text">
+                     <ul>
+                        {%- for block in section.blocks -%}
+                        <li>
+                           <div class="content-text d-flex align-items-center justify-content-start">
+                              <div class="icon-text">
+                                 {% if block.settings.icon != blank %}
+                                    {% assign iconwidth = block.settings.icon.width %}
+                                    {%- assign imagealt = block.settings.icon.alt | default: 'icon-text' | strip_html | escape -%}
+                                    {%- assign image_height = block.settings.icon.width | divided_by: block.settings.icon.aspect_ratio -%}
+                                    {{ block.settings.icon | image_url: width: 200 | image_tag:
+                                       loading: 'lazy',
+                                       class: 'img-fluid',
+                                       width: iconwidth,
+                                       height: image_height,
+                                       alt: imagealt,
+                                       widths: '59 80 100 200'
+                                       }}
+                                 {% else %}
+                                    {{ 'detailed-apparel-1' | placeholder_svg_tag: 'placeholder-svg' | replace: '<svg', '<svg style="max-width: 59px"' }}
+                                 {% endif %}
+                              </div>
+                              <div class="content">
+                                 <div class="title">
+                                    {{ block.settings.title_block }}
+                                 </div>
+                                 <div class="description">
+                                    {{ block.settings.desc_block }}
+                                 </div>
+                              </div>
+                           </div>
+                        </li>
+                        {%- endfor -%}
+                     </ul>
+                  </div>
+            </div>
+            <div class="col-lg-7 text-right">
+               {%- liquid
+                  assign image_height = sst.banner.width | divided_by: sst.banner.aspect_ratio
+                  assign widths = '572, 750, 1100, 1500, 1780, 2048'
+                  assign imagealt = sst.banner.alt | default: 'banner' | strip_html | escape
+
+               -%}
+               {% if sst.banner != blank %}
+                  {{ sst.banner | image_url: width: 519 | image_tag:
+                     loading: 'lazy',
+                     class: 'img-fluid',
+                     width: sst.banner.width,
+                     height: image_height,
+                     alt: imagealt,
+                     widths: widths
+                     }}
+               {% else %}
+                  {{ 'hero-apparel-2' | placeholder_svg_tag: 'placeholder-svg' | replace: '<svg', '<svg style="max-width: 519px"' }}
+               {% endif %}
+            </div>
+
+      </div>
+   </div>
+</div>
+
+{% schema %}
+   {
+      "name": "Vinova Image Width Text 4",
+      "class": "section-img-text4",
+      "settings": [
+         {
+            "type":  "header",
+            "content": "Block Content Text"
+         },
+         {
+            "type": "richtext",
+            "id": "heading",
+            "label": "Heading",
+            "default": "<p>Premium Coffee Beans</p>"
+         },
+         {
+            "type": "color",
+            "id": "heading_c",
+            "label": "Heading color",
+            "default": "#222222"
+         },
+         {
+            "type": "color",
+            "id": "subheading_c",
+            "label": "Sub Heading color",
+            "default": "#505157"
+         },
+         {
+            "type": "richtext",
+            "id": "subheading",
+            "label": "Description Block",
+            "default": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam risus nibh, feugiat nec sapien ac, faucibus luctus odio. Nam nec porta leo. Donec scelerisque libero ac luctus aliquam. Integer fringilla sed dui euismod placerat. Fusce vitae odio est. Nulla id eros mi. Integer vitae mauris et felis pulvinar pellentesque. Praesent a auctor odio. Morbi lacinia aliquet augue, non auctor ipsum vehicula a. </p>"
+         },
+         {
+            "type": "select",
+            "id": "block_alignment",
+            "label": "Block text alignment",
+            "default": "text-center",
+            "options": [
+               {
+                  "value": "text-left",
+                  "label": "Left"
+               },
+               {
+                  "value": "text-center",
+                  "label": "Center"
+               },
+               {
+                  "value": "text-right",
+                  "label": "Right"
+               }
+            ]
+         },
+         {
+            "type": "image_picker",
+            "id": "banner",
+            "label": "Banner Image"
+         },
+         {
+            "type":  "header",
+            "content": "Design option"
+         },
+         {
+            "type": "checkbox",
+            "id": "animate",
+            "label": "Show animated",
+            "default":   true
+         },
+         {
+         "type": "select",
+         "id": "container",
+         "label": "Container",
+         "default": "container",
+         "options": [
+            { "value": "container", "label": "Container" },
+            { "value": "container-fluid", "label": "Container fluid" },
+            { "value": "container-full", "label": "Container full width" }
+         ]
+         },
+         {
+         "type": "color",
+         "id": "background_color",
+         "label": "Background colors"
+         },
+         {
+         "type": "text",
+         "id": "class",
+         "label": "Class"
+         },
+         {
+         "type": "number",
+         "id": "distance_top",
+         "label": "Top spacing section (px)",
+         "default": 30
+         },
+         {
+         "type": "number",
+         "id": "distance_bottom",
+         "label": "Bottom spacing section (px)",
+         "default": 30
+         }
+      ],
+      "blocks": [
+         {
+            "type": "text-content",
+            "name": "Text",
+            "limit": 8,
+            "settings": [
+               {
+                  "type": "image_picker",
+                  "id": "icon",
+                  "label": "Icon"
+               },
+
+               {
+                  "type": "richtext",
+                  "id": "title_block",
+                  "label": "Title Block ",
+                  "default": "<p>altitude</p>"
+               },
+               {
+                  "type": "richtext",
+                  "id": "desc_block",
+                  "label": "Description Block",
+                  "default": "<p>Up to ca. 800M</p>"
+               }
+            ]
+         }
+      ],
+      "presets": [
+         {
+            "name": "Vinova Image Width Text 4",
+             "blocks": [
+               {
+                  "type": "text-content"
+               },
+               {
+                  "type": "text-content"
+               },
+               {
+                  "type": "text-content"
+               },
+               {
+                  "type": "text-content"
+               }
+            ]
+         }
+      ]
+   }
+{% endschema %}

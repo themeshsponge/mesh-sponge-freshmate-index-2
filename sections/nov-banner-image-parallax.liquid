@@ -1,0 +1,207 @@
+{% assign sst = section.settings %}
+{%- capture container -%}
+  {{- sst.container -}}
+{%- endcapture -%}
+
+{%- style -%}
+
+   #shopify-section-{{ section.id }} .distance {
+      padding-top: {{ sst.distance_top | append: 'px' }};
+      padding-bottom: {{ sst.distance_bottom | append: 'px' }};
+      {% if sst.background_color != blank %}
+      background-color: {{ sst.background_color }};
+      {% endif %}
+      {% if bg_image.src != blank %}
+      background-image: url("{{ bg_image | img_url: '1920x' }}");background-repeat: no-repeat;background-size: cover;
+      {% endif %}
+   }
+   @media(max-width: 1199px) {
+      #shopify-section-{{ section.id }} .distance {
+         {% if sst.distance_top > 60 %}padding-top: {{ sst.distance_top | times: 0.6 | round: 0 | append: 'px;' }} {% else %} padding-top: {{ sst.distance_top | append: 'px;'}}; {% endif %}
+         {% if sst.distance_bottom > 60 %}padding-bottom: {{ sst.distance_bottom | times: 0.6 | round: 0 | append: 'px;' }}{% else %} padding-top: {{ sst.distance_top | append: 'px;'}}; {% endif %}
+      }
+   }
+  #shopify-section-{{ section.id }} .block__parallax{
+   background-image: url("{{ sst.banner  | img_url: '1920x' }}");
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+  }
+   #shopify-section-{{ section.id }} .content-text-parallax .heading{
+      color: {{ sst.heading_c }};
+   }
+   #shopify-section-{{ section.id }} .content-text-parallax .subheading{
+      color: {{ sst.subheading_c }};
+   }
+   #shopify-section-{{ section.id }} .content-text-parallax .button a{
+      color: {{ sst.button_c }};
+      background-color: {{ sst.button_bgc }} !important;
+   }
+   #shopify-section-{{ section.id }} .content-text-parallax .button a:hover{
+      color: {{ sst.button_ch }};
+      background-color: {{ sst.button_bgch }} !important;
+   }
+
+{% endstyle %}
+
+<div class="distance{% if sst.class != blank %} {{ sst.class }}{% endif %} position-relative overflow-hidden">
+   <div class="parallax-container">
+      <div class="block__parallax itemY_parallax">
+
+      </div>
+   </div>
+   <div  class="{{ container }} position-relative">
+      <div class="content-text-parallax">
+         <div class="block-text position-absolute">
+            <div class="heading">
+               {{ sst.heading }}
+            </div>
+            <div class="subheading">
+               {{ sst.subheading }}
+            </div>
+            <div class="button">
+               <a href="{% if sst.link != blank %} {{ sst.link }} {% else %} # {% endif %}" class="btn sls-btn btn-medium">{{ sst.button_text }}</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+{% schema %}
+   {
+      "name": "Vinova Banner Parallax",
+      "class": "section-banner-image-parallax section-video",
+      "settings": [
+         {
+            "type":  "header",
+            "content": "Block Content Text"
+         },
+         {
+            "type": "richtext",
+            "id": "heading",
+            "label": "Heading",
+            "default": "<p>New Collection</p>"
+         },
+         {
+            "type": "color",
+            "id": "heading_c",
+            "label": "Heading color",
+            "default": "#ffffff"
+         },
+         {
+            "type": "color",
+            "id": "subheading_c",
+            "label": "Sub Heading color",
+            "default": "#ffffff"
+         },
+         {
+            "type": "richtext",
+            "id": "subheading",
+            "label": "Description Block",
+            "default": "<p>Start Your Day<br>With a Black Coffee</p>"
+         },
+         {
+            "type": "text",
+            "id": "button_text",
+            "label": "Button Text",
+            "default": "Explore Now"
+         },
+         {
+            "type": "color",
+            "id": "button_c",
+            "label": "Button color",
+            "default": "#ffffff"
+         },
+         {
+            "type": "color",
+            "id": "button_ch",
+            "label": "Button Color Hover",
+            "default": "#000000"
+         },
+         {
+            "type": "color",
+            "id": "button_bgc",
+            "label": "Button Background Color",
+            "default": "#000000"
+         },
+         {
+            "type": "color",
+            "id": "button_bgch",
+            "label": "Button Background Color Hover",
+            "default": "#ffffff"
+         },
+         {
+            "type": "url",
+            "id": "link",
+            "label": "Link Buttun"
+         },
+         {
+            "type": "select",
+            "id": "block_alignment",
+            "label": "Block text alignment",
+            "default": "text-left",
+            "options": [
+               {
+                  "value": "text-left",
+                  "label": "Left"
+               },
+               {
+                  "value": "text-center",
+                  "label": "Center"
+               },
+               {
+                  "value": "text-right",
+                  "label": "Right"
+               }
+            ]
+         },
+         {
+            "type": "image_picker",
+            "id": "banner",
+            "label": "Banner Image"
+         },
+         {
+            "type":  "header",
+            "content": "Design option"
+         },
+         {
+         "type": "select",
+         "id": "container",
+         "label": "Container",
+         "default": "container",
+         "options": [
+            { "value": "container", "label": "Container" },
+            { "value": "container-fluid", "label": "Container fluid" },
+            { "value": "container-full", "label": "Container full width" }
+         ]
+         },
+         {
+         "type": "color",
+         "id": "background_color",
+         "label": "Background colors"
+         },
+         {
+         "type": "text",
+         "id": "class",
+         "label": "Class"
+         },
+         {
+         "type": "number",
+         "id": "distance_top",
+         "label": "Top spacing section (px)",
+         "default": 30
+         },
+         {
+         "type": "number",
+         "id": "distance_bottom",
+         "label": "Bottom spacing section (px)",
+         "default": 30
+         }
+      ],
+      "presets": [
+         {
+            "name": "Vinova Banner Image Parallax"
+         }
+      ]
+   }
+{% endschema %}
