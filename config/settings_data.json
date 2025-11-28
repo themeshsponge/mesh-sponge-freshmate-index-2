@@ -451,7 +451,7 @@
           "bc269370-9ae4-4042-82c6-1fc53d71deb6": {
             "type": "block_menu",
             "settings": {
-              "block_title": "HELP",
+              "block_title": "SHOP",
               "menu_handle": "footer",
               "block_class": "mt-xs-20 mt-sm-20",
               "grid_xl": "col-xl-2",
