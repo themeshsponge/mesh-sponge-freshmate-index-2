@@ -224,6 +224,7 @@
         "blocks": {
           "7a466ba6-56c4-4982-aa2d-297d9c0603d0": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "Shop",
               "novmenu_item": "Shop",
