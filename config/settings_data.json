@@ -224,7 +224,6 @@
         "blocks": {
           "7a466ba6-56c4-4982-aa2d-297d9c0603d0": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "title": "Shop",
               "novmenu_item": "Shop",
@@ -232,8 +231,8 @@
               "fw": true,
               "novmenu_menu_enable": true,
               "show_title": true,
-              "novmenu_xl": "col-xl-8",
-              "novmenu_lg": "col-lg-8",
+              "novmenu_xl": "col-xl-6",
+              "novmenu_lg": "col-lg-6",
               "submenu_xl": "col-xl-4",
               "submenu_lg": "col-lg-4",
               "banner_br": 5,
