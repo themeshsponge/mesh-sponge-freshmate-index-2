@@ -337,8 +337,9 @@
           "ad413d0e-e2cc-4f42-9e92-192f79f66ed8": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Fresh Fruits",
-              "desc": ""
+              "name_item": "Shower Pouf",
+              "desc": "",
+              "icon_menus": "shopify://shop_images/loofah.png"
             }
           },
           "0a5c61a0-03b6-4977-a6cc-7163c674b207": {
