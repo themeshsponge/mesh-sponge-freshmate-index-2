@@ -361,8 +361,9 @@
           "1ba9948e-f5f4-4bf5-8d9f-8101cba79e0a": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Bee Product",
-              "desc": ""
+              "name_item": "Exfoliating Glove",
+              "desc": "",
+              "icon_menus": "shopify://shop_images/bath-glove.png"
             }
           },
           "f5a8eeaf-b0fd-4640-bf98-76588cce2149": {
