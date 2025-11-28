@@ -475,7 +475,7 @@
           "block_menu_VCNhFx": {
             "type": "block_menu",
             "settings": {
-              "block_title": "",
+              "block_title": "Policies",
               "menu_handle": "customer-care-footer-menu",
               "block_class": "",
               "grid_xl": "col-xl-3",
