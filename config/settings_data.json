@@ -225,8 +225,8 @@
           "7a466ba6-56c4-4982-aa2d-297d9c0603d0": {
             "type": "text",
             "settings": {
-              "title": "Collections",
-              "novmenu_item": "Collections",
+              "title": "Shop",
+              "novmenu_item": "Shop",
               "desc": "",
               "fw": true,
               "novmenu_menu_enable": true,
