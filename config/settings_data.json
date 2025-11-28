@@ -346,8 +346,7 @@
             "type": "icon_menu",
             "settings": {
               "name_item": "Loofah",
-              "desc": "",
-              "icon_menus": "shopify://shop_images/loofah_1.png"
+              "desc": ""
             }
           },
           "b8fe9fdf-4701-4d4e-8366-b20cb0ad190d": {
@@ -363,7 +362,7 @@
             "settings": {
               "name_item": "Exfoliating Glove",
               "desc": "",
-              "icon_menus": "shopify://shop_images/bath-glove.png"
+              "icon_menus": "shopify://shop_images/scrub.png"
             }
           },
           "f5a8eeaf-b0fd-4640-bf98-76588cce2149": {
