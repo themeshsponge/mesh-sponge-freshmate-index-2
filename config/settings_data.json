@@ -464,7 +464,7 @@
             "type": "block_menu",
             "settings": {
               "block_title": "CUSTOMER CARE",
-              "menu_handle": "",
+              "menu_handle": "customer-care-footer-menu",
               "block_class": "mt-sm-20",
               "grid_xl": "col-xl-2",
               "grid_lg": "col-lg-2",
