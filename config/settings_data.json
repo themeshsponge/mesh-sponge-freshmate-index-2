@@ -440,6 +440,7 @@
           "c76cbe48-7520-4d29-ba20-3ddd2e193afb": {
             "type": "block_contact",
             "settings": {
+              "logo_footer": "shopify://shop_images/Mesh_Sponge_Logo_Black_500_x_150_px.svg",
               "summary_footer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet</p>",
               "block_class": "",
               "grid_xl": "col-xl-4",
@@ -492,7 +493,7 @@
           "53549ed7-50a5-4657-be39-458f238f5bc2"
         ],
         "settings": {
-          "animate": false,
+          "animate": true,
           "border_top": false,
           "border_t_c": "#ea1c1c",
           "border_t_opaciry": 0,
