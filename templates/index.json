@@ -523,6 +523,7 @@
         "template--19750113837336__eb2e3e0a-4d9f-4e53-bae8-8762b1ff075d-16887876956b0020ef-0": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/authenticity.webp",
             "icon": "shopify://shop_images/text-icon1.webp",
             "text_block": "<p>Authenticity Certification</p>"
           }
@@ -530,6 +531,7 @@
         "template--19750113837336__eb2e3e0a-4d9f-4e53-bae8-8762b1ff075d-16887876956b0020ef-1": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/delivery.webp",
             "icon": "shopify://shop_images/text-icon2.webp",
             "text_block": "<p>Express Delivery</p>"
           }
@@ -537,6 +539,7 @@
         "template--19750113837336__eb2e3e0a-4d9f-4e53-bae8-8762b1ff075d-16887876956b0020ef-2": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/payment-secure.webp",
             "icon": "shopify://shop_images/choise-icon1.webp",
             "text_block": "<p>Payment Secure</p>"
           }
