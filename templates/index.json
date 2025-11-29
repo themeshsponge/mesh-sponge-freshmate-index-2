@@ -180,6 +180,7 @@
         },
         "image_TacMhL": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/slide-image-5.png",
             "caption_1": "Vegetables",
@@ -263,7 +264,7 @@
         "image_3AqytE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_84.png",
+            "image": "shopify://shop_images/slide-image-6.png",
             "caption_1": "Vegetables",
             "color_cap1": "#00361e",
             "fz_cap1_xxl": 50,
