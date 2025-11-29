@@ -382,6 +382,14 @@
               "icon_menus": "shopify://shop_images/bath-scrubber.png"
             }
           },
+          "icon_menu_kXCtTk": {
+            "type": "icon_menu",
+            "settings": {
+              "name_item": "Accessories",
+              "desc": "",
+              "icon_menus": "shopify://shop_images/bath-accessories.png"
+            }
+          },
           "fbe5ce60-19d7-45e0-9616-83286c91ff22": {
             "type": "icon_menu",
             "settings": {
@@ -400,6 +408,7 @@
           "1ba9948e-f5f4-4bf5-8d9f-8101cba79e0a",
           "f5a8eeaf-b0fd-4640-bf98-76588cce2149",
           "cf0bc072-78be-4842-9af7-8d099b99a8e9",
+          "icon_menu_kXCtTk",
           "fbe5ce60-19d7-45e0-9616-83286c91ff22"
         ],
         "settings": {
