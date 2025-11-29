@@ -744,6 +744,7 @@
         "template--19750113837336__c003e171-e763-49fb-94d6-4897ab5934ad-168866133470c7af7a-0": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/choise-icon1.webp",
             "title_policy": "Premium Quality",
             "desc_policy": "The quality and safety of our products is our top priority. We continue to quest for even greater product quality",
             "class": ""
@@ -752,6 +753,7 @@
         "template--19750113837336__c003e171-e763-49fb-94d6-4897ab5934ad-168866133470c7af7a-1": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/choise-icon2.webp",
             "title_policy": "Alway Fresh",
             "desc_policy": "FreshMate Shop is always committed to 100% fresh, organic food has a certificate of food safety certification",
             "class": ""
@@ -760,6 +762,7 @@
         "template--19750113837336__c003e171-e763-49fb-94d6-4897ab5934ad-168866133470c7af7a-2": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/choise-icon3.webp",
             "title_policy": "Organic Farming",
             "desc_policy": "Organic farming, agricultural system that uses ecologically based pest controls and biological fertilizers derived largely from animal",
             "class": ""
