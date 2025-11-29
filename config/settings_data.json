@@ -385,8 +385,9 @@
           "fbe5ce60-19d7-45e0-9616-83286c91ff22": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Pizza",
-              "desc": ""
+              "name_item": "Bath Mitt",
+              "desc": "",
+              "icon_menus": "shopify://shop_images/bath-mitt.png"
             }
           }
         },
