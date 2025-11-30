@@ -483,7 +483,7 @@
             "settings": {
               "block_title": "COMPANY",
               "menu_handle": "footer",
-              "block_class": "mt-xs-20 mt-sm-20",
+              "block_class": "mt-xs-20",
               "grid_xl": "col-xl-2",
               "grid_lg": "col-lg-2",
               "grid_md": "col-md-2",
