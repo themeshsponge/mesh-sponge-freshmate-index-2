@@ -755,6 +755,7 @@
         "image_QcLD6m": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/top-collection-6_8898b296-71c7-438d-9e0e-6a50cec164b6.png",
             "link": "shopify://collections/meat",
             "cta_label": "Accessories",
             "desc": "",
