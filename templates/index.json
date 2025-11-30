@@ -705,6 +705,7 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/top-collection-2.png",
             "link": "shopify://collections/drink",
             "cta_label": "Body Brush",
             "desc": "",
