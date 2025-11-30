@@ -713,8 +713,8 @@
           "type": "image",
           "settings": {
             "link": "shopify://collections/burgers",
-            "cta_label": "Burgers",
-            "desc": "<p>Discover our menu and <br/>order delivery</p>",
+            "cta_label": "Exfoliating Glove",
+            "desc": "",
             "class": ""
           }
         },
