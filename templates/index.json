@@ -722,8 +722,8 @@
           "type": "image",
           "settings": {
             "link": "shopify://collections/salmon",
-            "cta_label": "Salmon",
-            "desc": "<p>Get the freshest salmon <br/>and ocean trout</p>",
+            "cta_label": "Bath Sponge",
+            "desc": "",
             "class": ""
           }
         },
