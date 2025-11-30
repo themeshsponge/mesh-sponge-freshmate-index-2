@@ -735,6 +735,24 @@
             "desc": "",
             "class": ""
           }
+        },
+        "image_TU4d3U": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/meat",
+            "cta_label": "Bath Mitt",
+            "desc": "",
+            "class": ""
+          }
+        },
+        "image_QcLD6m": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/meat",
+            "cta_label": "Accessories",
+            "desc": "",
+            "class": ""
+          }
         }
       },
       "block_order": [
@@ -743,7 +761,9 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-2",
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-3",
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-4",
-        "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-5"
+        "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-5",
+        "image_TU4d3U",
+        "image_QcLD6m"
       ],
       "settings": {
         "heading": "<p>Top Collections</p>",
