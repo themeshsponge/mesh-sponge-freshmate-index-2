@@ -885,6 +885,13 @@
             "tab_title": "Back Scrubber",
             "collection_handle": ""
           }
+        },
+        "tabitem_mmHC7H": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Accessories",
+            "collection_handle": ""
+          }
         }
       },
       "block_order": [
@@ -892,7 +899,8 @@
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-1",
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-2",
         "0822a60a-e15f-4559-b2d7-c0fc9e4745dc",
-        "tabitem_8YzVxP"
+        "tabitem_8YzVxP",
+        "tabitem_mmHC7H"
       ],
       "settings": {
         "heading": "<p>Best Sellers</p>",
