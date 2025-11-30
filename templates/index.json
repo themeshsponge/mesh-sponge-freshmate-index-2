@@ -805,7 +805,7 @@
           "type": "text",
           "settings": {
             "image": "shopify://shop_images/authenticity.webp",
-            "icon": "shopify://shop_images/text-icon1.webp",
+            "icon": "shopify://shop_images/authenticity-certification.png",
             "text_block": "<p>Authenticity Certification</p>"
           }
         },
