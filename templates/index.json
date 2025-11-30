@@ -868,15 +868,22 @@
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-2": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "Drink",
+            "tab_title": "Body Brush",
             "collection_handle": "drink"
           }
         },
         "0822a60a-e15f-4559-b2d7-c0fc9e4745dc": {
           "type": "tabitem",
           "settings": {
-            "tab_title": "Fruits",
+            "tab_title": "Exfoliating Glove",
             "collection_handle": "fruits"
+          }
+        },
+        "tabitem_8YzVxP": {
+          "type": "tabitem",
+          "settings": {
+            "tab_title": "Back Scrubber",
+            "collection_handle": ""
           }
         }
       },
@@ -884,7 +891,8 @@
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-0",
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-1",
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-2",
-        "0822a60a-e15f-4559-b2d7-c0fc9e4745dc"
+        "0822a60a-e15f-4559-b2d7-c0fc9e4745dc",
+        "tabitem_8YzVxP"
       ],
       "settings": {
         "heading": "<p>Best Sellers</p>",
