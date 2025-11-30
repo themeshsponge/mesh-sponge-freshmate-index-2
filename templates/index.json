@@ -725,6 +725,7 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/top-collection-4.png",
             "link": "shopify://collections/salmon",
             "cta_label": "Bath Sponge",
             "desc": "",
