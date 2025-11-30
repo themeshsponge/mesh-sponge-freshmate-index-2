@@ -715,6 +715,7 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/top-collection-3.png",
             "link": "shopify://collections/burgers",
             "cta_label": "Exfoliating Glove",
             "desc": "",
