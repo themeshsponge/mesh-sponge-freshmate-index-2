@@ -735,6 +735,7 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-5": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/top-collection-5.png",
             "link": "shopify://collections/meat",
             "cta_label": "Back Scrubber",
             "desc": "",
