@@ -693,6 +693,7 @@
         },
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "shopify://collections/frontpage",
             "cta_label": "Loofah",
@@ -738,6 +739,7 @@
         },
         "image_TU4d3U": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "shopify://collections/meat",
             "cta_label": "Bath Mitt",
