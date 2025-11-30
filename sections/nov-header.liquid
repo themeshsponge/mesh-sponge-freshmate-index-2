@@ -10,10 +10,10 @@
             </div>
             <div class="contentsticky_logo">
               {% if sst.logo %}
-                <a href="{{ routes.root_url }}" class="site-header__logo d-block" style="max-width: 350px">
+                <a href="{{ routes.root_url }}" class="site-header__logo d-block" style="max-width: {{ sst.w_logo }}px">
                   {% assign imagewidth = sst.logo.width %}
                   {%- assign imagealt = sst.logo.alt | default: shop.name | escape -%}
-                  {{ sst.logo | image_url: width: 350 | image_tag:
+                  {{ sst.logo | image_url: width: imagewidth | image_tag:
                   loading: 'lazy',
                   class: 'img-fluid',
                   alt: imagealt,
