@@ -695,8 +695,8 @@
           "type": "image",
           "settings": {
             "link": "shopify://collections/frontpage",
-            "cta_label": "Vegetables",
-            "desc": "<p>More than 40 different <br/>types of vegetable.</p>",
+            "cta_label": "Loofah",
+            "desc": "",
             "class": ""
           }
         },
