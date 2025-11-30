@@ -731,8 +731,8 @@
           "type": "image",
           "settings": {
             "link": "shopify://collections/meat",
-            "cta_label": "Beef",
-            "desc": "<p>Discover our menu and <br/>order delivery</p>",
+            "cta_label": "Back Scrubber",
+            "desc": "",
             "class": ""
           }
         }
