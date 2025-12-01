@@ -1040,6 +1040,7 @@
       "blocks": {
         "template--19750113837336__c003e171-e763-49fb-94d6-4897ab5934ad-168866133470c7af7a-0": {
           "type": "item_policy",
+          "name": "Premium Comfort",
           "settings": {
             "policy_icon": "shopify://shop_images/Premium_Comfort.png",
             "title_policy": "Premium Comfort",
@@ -1049,6 +1050,7 @@
         },
         "template--19750113837336__c003e171-e763-49fb-94d6-4897ab5934ad-168866133470c7af7a-1": {
           "type": "item_policy",
+          "name": "Always Reliable",
           "settings": {
             "policy_icon": "shopify://shop_images/Always_Reliable.png",
             "title_policy": "Always Reliable",
@@ -1058,6 +1060,7 @@
         },
         "template--19750113837336__c003e171-e763-49fb-94d6-4897ab5934ad-168866133470c7af7a-2": {
           "type": "item_policy",
+          "name": "Thoughtfully Designed",
           "settings": {
             "policy_icon": "shopify://shop_images/Thoughtfully_Designed.png",
             "title_policy": "Thoughtfully Designed",
