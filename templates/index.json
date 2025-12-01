@@ -1042,8 +1042,8 @@
           "type": "item_policy",
           "settings": {
             "policy_icon": "shopify://shop_images/choise-icon1.webp",
-            "title_policy": "Premium Quality",
-            "desc_policy": "The quality and safety of our products is our top priority. We continue to quest for even greater product quality",
+            "title_policy": "Premium Comfort",
+            "desc_policy": "The comfort and durability of our products is our top priority. We continually work to enhance quality and elevate everyday self-care.",
             "class": ""
           }
         },
@@ -1051,8 +1051,8 @@
           "type": "item_policy",
           "settings": {
             "policy_icon": "shopify://shop_images/choise-icon2.webp",
-            "title_policy": "Alway Fresh",
-            "desc_policy": "FreshMate Shop is always committed to 100% fresh, organic food has a certificate of food safety certification",
+            "title_policy": "Always Reliable",
+            "desc_policy": "Mesh Sponge is committed to offering products that are soft, safe, and long-lasting, designed to support your daily routines with confidence.",
             "class": ""
           }
         },
@@ -1060,8 +1060,8 @@
           "type": "item_policy",
           "settings": {
             "policy_icon": "shopify://shop_images/choise-icon3.webp",
-            "title_policy": "Organic Farming",
-            "desc_policy": "Organic farming, agricultural system that uses ecologically based pest controls and biological fertilizers derived largely from animal",
+            "title_policy": "Thoughtfully Designed",
+            "desc_policy": "We create simple, functional designs using mindful materials, offering accessories that bring ease, style, and practicality to everyday living.",
             "class": ""
           }
         }
