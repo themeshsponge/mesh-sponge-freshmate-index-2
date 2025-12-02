@@ -627,13 +627,13 @@
         "template--19750113837336__f721785f-1f39-493f-a139-9a173940722f-1688717270fc8cc87a-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gallery_Image_1.png",
+            "image": "shopify://shop_images/Gallery_Image_1_dfb3643a-ea78-479d-9e76-5e50d6e27ee9.png",
             "link": "",
             "cta_label": "Vegetable Juice",
-            "cta_label_c": "#ffffff",
+            "cta_label_c": "#000000",
             "cta_label_s1": 26,
             "cta_label2": "Effective weight loss drinks",
-            "cta_label_2": "#ffffff",
+            "cta_label_2": "#000000",
             "cta_label_s2": 14,
             "banner_button": "Learn More",
             "banner_color": "#ffffff",
