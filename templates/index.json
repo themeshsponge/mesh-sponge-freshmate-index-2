@@ -564,7 +564,6 @@
           "type": "text",
           "settings": {
             "image": "shopify://shop_images/delivery.webp",
-            "icon": "shopify://shop_images/express-delivery.png",
             "text_block": "<p>Luxe Foam Lift</p>"
           }
         },
