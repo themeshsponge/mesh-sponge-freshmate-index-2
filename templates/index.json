@@ -1010,6 +1010,50 @@
         "distance_bottom": 30
       }
     },
+    "nov_gallery_image_parallax_NeDqci": {
+      "type": "nov-gallery-image-parallax",
+      "blocks": {
+        "image_FKXF4K": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gallery_Image_1.jpg"
+          }
+        },
+        "image_KqcfzD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gallery_Image_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_FKXF4K",
+        "image_KqcfzD"
+      ],
+      "name": "Vinova Gallery Image Parallax",
+      "settings": {
+        "heading": "<p>Vinova Gallery Image Parallax</p>",
+        "heading_c": "#222222",
+        "subheading": "<p>Subtitle from happy customers</p>",
+        "subheading_c": "#666666",
+        "title_alignment": "text-left",
+        "aspect": "43",
+        "bd_radius": 0,
+        "spacing": 0,
+        "reverse": false,
+        "style_img_1": false,
+        "style_img_2": true,
+        "animate": true,
+        "br_container": 0,
+        "container": "container",
+        "background_color": "",
+        "bg_size": "full",
+        "class_section": "",
+        "px": 0,
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
     "48f70dd6-d178-4dca-b872-60784cc40f0a": {
       "type": "nov-product-list-slider",
       "settings": {
@@ -1209,6 +1253,7 @@
     "eb2e3e0a-4d9f-4e53-bae8-8762b1ff075d",
     "7a400064-a809-49aa-8afe-5de10c556d91",
     "844349d4-bf18-47a7-bdf7-30728f347255",
+    "nov_gallery_image_parallax_NeDqci",
     "48f70dd6-d178-4dca-b872-60784cc40f0a",
     "c003e171-e763-49fb-94d6-4897ab5934ad",
     "afbbec56-d62c-4729-a3f5-341f372f5674"
