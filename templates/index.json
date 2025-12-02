@@ -564,6 +564,7 @@
           "type": "text",
           "settings": {
             "image": "shopify://shop_images/delivery.webp",
+            "icon": "shopify://shop_images/Luxe_Foam_Lift.png",
             "text_block": "<p>Luxe Foam Lift</p>"
           }
         },
