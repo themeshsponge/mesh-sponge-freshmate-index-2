@@ -556,7 +556,7 @@
           "type": "text",
           "settings": {
             "image": "shopify://shop_images/authenticity.webp",
-            "icon": "shopify://shop_images/authenticity-certification.png",
+            "icon": "shopify://shop_images/Authenticity_Certification.png",
             "text_block": "<p>Silky-Soft Mesh</p>"
           }
         },
