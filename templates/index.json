@@ -557,7 +557,7 @@
           "settings": {
             "image": "shopify://shop_images/authenticity.webp",
             "icon": "shopify://shop_images/authenticity-certification.png",
-            "text_block": "<p>Authenticity Certification</p>"
+            "text_block": "<p>Silky-Soft Mesh</p>"
           }
         },
         "template--19750113837336__eb2e3e0a-4d9f-4e53-bae8-8762b1ff075d-16887876956b0020ef-1": {
@@ -565,7 +565,7 @@
           "settings": {
             "image": "shopify://shop_images/delivery.webp",
             "icon": "shopify://shop_images/express-delivery.png",
-            "text_block": "<p>Express Delivery</p>"
+            "text_block": "<p>Luxe Foam Lift</p>"
           }
         },
         "template--19750113837336__eb2e3e0a-4d9f-4e53-bae8-8762b1ff075d-16887876956b0020ef-2": {
@@ -573,7 +573,7 @@
           "settings": {
             "image": "shopify://shop_images/payment-secure.webp",
             "icon": "shopify://shop_images/credit-card_89d3d6f2-3227-4940-8a19-1aa152852353.png",
-            "text_block": "<p>Payment Secure</p>"
+            "text_block": "<p>Enduring Craftsmanship</p>"
           }
         }
       },
