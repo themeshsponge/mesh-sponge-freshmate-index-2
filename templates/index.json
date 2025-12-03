@@ -294,6 +294,7 @@
         "template--19750113837336__9cdd732a-2e74-4850-b074-6db58714b2cb-1688974173b9f3df05-0": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/FREE_SHIPPING.png",
             "title_policy": "",
             "desc_policy": "<strong>FREE SHIPPING :</strong> All orders of $49 or more of eligible items across any product category qualify.",
             "mw": 500,
@@ -340,8 +341,8 @@
         "subheading_c": "#222222",
         "title_alignment": "text-left",
         "style": "style2",
-        "width_icon": 30,
-        "height_icon": 30,
+        "width_icon": 65,
+        "height_icon": 41,
         "bg_i": false,
         "bg_i_w": 85,
         "bg_icon": "#ffffff",
