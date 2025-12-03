@@ -307,6 +307,7 @@
         "template--19750113837336__9cdd732a-2e74-4850-b074-6db58714b2cb-1688974173b9f3df05-1": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/CREDIT_CARDS.png",
             "title_policy": "",
             "desc_policy": "<strong>CREDIT CARDS :</strong> We accept Visa, American Express, Mastercard, and Discover",
             "mw": 500,
@@ -319,6 +320,7 @@
         "template--19750113837336__9cdd732a-2e74-4850-b074-6db58714b2cb-1688974173b9f3df05-2": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/RETURN_POLICY.png",
             "title_policy": "",
             "desc_policy": "<strong>RETURN POLICY :</strong> You can return your online order within 30 days of receiving your order.",
             "mw": 500,
