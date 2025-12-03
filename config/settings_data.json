@@ -356,9 +356,9 @@
           "1ba9948e-f5f4-4bf5-8d9f-8101cba79e0a": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Exfoliating Glove",
+              "name_item": "Exfoliating Gloves",
               "desc": "",
-              "icon_menus": "shopify://shop_images/exfoliating-glove.png"
+              "icon_menus": "shopify://shop_images/hand-glove.png"
             }
           },
           "f5a8eeaf-b0fd-4640-bf98-76588cce2149": {
