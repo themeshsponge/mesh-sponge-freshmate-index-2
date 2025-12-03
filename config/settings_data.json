@@ -364,9 +364,9 @@
           "f5a8eeaf-b0fd-4640-bf98-76588cce2149": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Bath Sponge",
+              "name_item": "Long Body Scrubbers",
               "desc": "",
-              "icon_menus": "shopify://shop_images/bath-sponge.png"
+              "icon_menus": "shopify://shop_images/pet-brush.png"
             }
           },
           "cf0bc072-78be-4842-9af7-8d099b99a8e9": {
