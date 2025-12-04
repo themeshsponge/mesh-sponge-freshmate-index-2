@@ -350,7 +350,7 @@
             "settings": {
               "name_item": "Kids Bath Sponges",
               "desc": "",
-              "icon_menus": "shopify://shop_images/rubber-duck.png"
+              "icon_menus": "shopify://shop_images/shower.png"
             }
           },
           "1ba9948e-f5f4-4bf5-8d9f-8101cba79e0a": {
@@ -388,9 +388,9 @@
           "fbe5ce60-19d7-45e0-9616-83286c91ff22": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Bath Mitt",
+              "name_item": "Bath Accessories",
               "desc": "",
-              "icon_menus": "shopify://shop_images/bath-mitt.png"
+              "icon_menus": "shopify://shop_images/shampoo.png"
             }
           }
         },
