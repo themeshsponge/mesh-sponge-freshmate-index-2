@@ -46,6 +46,7 @@
           "type": "quote",
           "settings": {
             "background_color": "#f1f1f1",
+            "image_quote": "shopify://shop_images/Untitled_design_-_2025-12-02T182005.820.png",
             "text_content": "<p>“We believe that everyone deserves products that make them feel good — every single day.”</p>",
             "color_content": "#232630",
             "fz_content": "2rem",
