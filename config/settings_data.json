@@ -400,9 +400,9 @@
         "settings": {
           "bg": "#c9baed",
           "bg_opacity": 100,
-          "logo": "shopify://shop_images/Mesh_Sponge_-_Logo_White.png",
+          "logo": "shopify://shop_images/Mesh_Sponge_-_Logo.svg",
           "w_logo": 300,
-          "logo_mobile": "shopify://shop_images/Mesh_Sponge_-_Logo_Black.png",
+          "logo_mobile": "shopify://shop_images/Mesh_Sponge_-_Logo.svg",
           "wm_logo": 100,
           "phone_icon": "rbb-icon-phone-4",
           "phone": "0123-456-7890",
@@ -443,7 +443,7 @@
           "c76cbe48-7520-4d29-ba20-3ddd2e193afb": {
             "type": "block_contact",
             "settings": {
-              "logo_footer": "shopify://shop_images/Mesh_Sponge_-_Logo_White.png",
+              "logo_footer": "shopify://shop_images/Mesh_Sponge_-_Logo.svg",
               "summary_footer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet</p>",
               "block_class": "mb-sm-20",
               "grid_xl": "col-xl-4",
