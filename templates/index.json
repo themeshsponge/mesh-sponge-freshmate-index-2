@@ -828,42 +828,42 @@
           "type": "tabitem",
           "settings": {
             "tab_title": "Shower Poufs",
-            "collection_handle": "frontpage"
+            "collection_handle": "best-sellers"
           }
         },
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-1": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Flower Bath Sponges",
-            "collection_handle": "meat"
+            "collection_handle": "best-sellers"
           }
         },
         "template--19750113837336__7a400064-a809-49aa-8afe-5de10c556d91-16886438514aecdcf7-2": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Kids Bath Sponges",
-            "collection_handle": "drink"
+            "collection_handle": "best-sellers"
           }
         },
         "0822a60a-e15f-4559-b2d7-c0fc9e4745dc": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Exfoliating Gloves",
-            "collection_handle": "fruits"
+            "collection_handle": "best-sellers"
           }
         },
         "tabitem_8YzVxP": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Back Body Scrubbers",
-            "collection_handle": ""
+            "collection_handle": "best-sellers"
           }
         },
         "tabitem_mmHC7H": {
           "type": "tabitem",
           "settings": {
             "tab_title": "Accessories",
-            "collection_handle": ""
+            "collection_handle": "best-sellers"
           }
         }
       },
