@@ -18,24 +18,12 @@
             "class": ""
           }
         },
-        "19efe45f-ad63-4c96-96a2-845f284fb3d7": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "color_title": "#232630",
-            "fz_title": "14px",
-            "text_content": "",
-            "color_content": "#232630",
-            "fz_content": "14px",
-            "class": "font-700  mt-50"
-          }
-        },
         "3b132045-2d40-4e4a-beac-9bcf8cda2932": {
           "type": "text",
           "settings": {
-            "title": "",
+            "title": "Who We Are",
             "color_title": "#232630",
-            "fz_title": "14px",
+            "fz_title": "22px",
             "text_content": "Welcome to our store - where quality, comfort, and style come together. \nWe’re dedicated to bringing you thoughtfully selected essentials, beautiful accessories, \nand everyday products that make life easier and more enjoyable. Every item we carry is chosen with care, ensuring great value without sacrificing quality.",
             "color_content": "#232630",
             "fz_content": "14px",
@@ -60,7 +48,6 @@
       },
       "block_order": [
         "36565fd9-4086-4fa5-8c15-db85e063a1b1",
-        "19efe45f-ad63-4c96-96a2-845f284fb3d7",
         "3b132045-2d40-4e4a-beac-9bcf8cda2932",
         "0e2d07ef-c64c-4922-a3af-a8c60a55a04a"
       ],
