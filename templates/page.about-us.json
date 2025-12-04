@@ -24,7 +24,7 @@
             "title": "Who We Are",
             "color_title": "#232630",
             "fz_title": "22px",
-            "text_content": "Welcome to our store - where quality, comfort, and style come together. \nWe’re dedicated to bringing you thoughtfully selected essentials, beautiful accessories, \nand everyday products that make life easier and more enjoyable. Every item we carry is chosen with care, ensuring great value without sacrificing quality.",
+            "text_content": "We are a family-owned company dedicated to creating thoughtfully crafted products that blend quality, elegance, and everyday practicality. From indulgent body care essentials to stylish accessories, every item is chosen to enhance daily routines and inspire confidence. Our passion lies in designing products that feel luxurious yet accessible, helping our customers experience beauty, comfort, and functionality in every aspect of their lives.",
             "color_content": "#232630",
             "fz_content": "14px",
             "class": "mt-30"
@@ -76,7 +76,7 @@
         "22b08cd0-39c0-4d7b-ad29-100877b35ac2": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer a carefully curated collection of refined essentials crafted to elevate your everyday life. Each product is selected for its exceptional quality, timeless design, and thoughtful functionality. From indulgent body care to elegant accessories and lifestyle pieces, our offerings are created to bring a sense of luxury and ease to your daily routine. Every item reflects our commitment to sophistication, comfort, and lasting value - allowing you to enjoy beautiful, well-made products that feel as good as they look.</p>",
+            "text": "<p>We offer a carefully curated collection of refined essentials designed to elevate everyday life. Each product is selected for its exceptional quality, timeless design, and thoughtful functionality. From indulgent body care to elegant accessories and lifestyle pieces, our offerings bring a sense of luxury and ease to your daily routine. Every item reflects our commitment to sophistication, comfort, and lasting value—allowing you to enjoy beautiful, well-made products that feel as good as they look.</p>",
             "tb_c": "",
             "t_s": 14,
             "t_s_md": 14,
@@ -155,7 +155,7 @@
         "46058ecb-b439-43a4-bf10-8e2e8f43bbff": {
           "type": "text",
           "settings": {
-            "text": "<p>We take pride in offering products that combine quality, comfort, and thoughtful design. When you shop with us, you’re choosing a store that values honesty, craftsmanship, and customer happiness above everything else. We carefully select every item to ensure great value and reliable performance, making your shopping experience simple, enjoyable, and stress-free. From helpful service to dependable products that fit effortlessly into your daily life, we’re here to make sure you always feel confident and satisfied with every purchase.</p>",
+            "text": "<p>Shopping with us means choosing quality, care, and attention to detail at every step. We strive to provide an experience that is as seamless and enjoyable as the products we offer. Every item is carefully selected for its excellence and durability, ensuring that you receive both style and substance. With a focus on customer satisfaction, thoughtful design, and everyday elegance, we aim to make every purchase feel effortless, rewarding, and distinctly premium.</p>",
             "tb_c": "",
             "t_s": 14,
             "t_s_md": 13,
