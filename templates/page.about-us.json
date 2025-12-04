@@ -36,19 +36,7 @@
             "title": "",
             "color_title": "#232630",
             "fz_title": "14px",
-            "text_content": "Welcome to our store — where quality, comfort, and style come together. \nWe’re dedicated to bringing you thoughtfully selected essentials, beautiful accessories, \nand everyday products that make life easier and more enjoyable. Every item we carry is chosen with care, ensuring great value without sacrificing quality.",
-            "color_content": "#232630",
-            "fz_content": "14px",
-            "class": "mt-30"
-          }
-        },
-        "151784c6-3925-4595-ac6b-344922c5139e": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "color_title": "#232630",
-            "fz_title": "14px",
-            "text_content": "Maecenas congue metus id turpis iaculis mattis. Sed pellentesque id arcu id scelerisque. Ut ullamcorper rutrum justo, at blandit eros maximus ut. Integer non tincidunt justo, rhoncus Aenean venenatis sed purus ac sollicitudin. Nulla mauris risus, commodo et luctus rutrum, lobortis sed mauris.",
+            "text_content": "Welcome to our store - where quality, comfort, and style come together. \nWe’re dedicated to bringing you thoughtfully selected essentials, beautiful accessories, \nand everyday products that make life easier and more enjoyable. Every item we carry is chosen with care, ensuring great value without sacrificing quality.",
             "color_content": "#232630",
             "fz_content": "14px",
             "class": "mt-30"
@@ -73,7 +61,6 @@
         "36565fd9-4086-4fa5-8c15-db85e063a1b1",
         "19efe45f-ad63-4c96-96a2-845f284fb3d7",
         "3b132045-2d40-4e4a-beac-9bcf8cda2932",
-        "151784c6-3925-4595-ac6b-344922c5139e",
         "0e2d07ef-c64c-4922-a3af-a8c60a55a04a"
       ],
       "settings": {}
