@@ -372,9 +372,9 @@
           "cf0bc072-78be-4842-9af7-8d099b99a8e9": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Back Scrubber",
+              "name_item": "Bundles & Gift Sets",
               "desc": "",
-              "icon_menus": "shopify://shop_images/bath-scrubber.png"
+              "icon_menus": "shopify://shop_images/gift_1.png"
             }
           },
           "icon_menu_kXCtTk": {
