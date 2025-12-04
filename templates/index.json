@@ -14,7 +14,6 @@
       "blocks": {
         "template--19750113837336__1fdbdfbc-ef4b-4854-a563-126f027ecc2d-16893246094dbc0b76-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/slide-image-1_73dc95af-e691-4c59-8909-1a42263afc57.png",
             "caption_1": "Luxurious Poufs",
@@ -97,7 +96,6 @@
         },
         "image_TacMhL": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Untitled_design_-_2025-12-04T033125.357.png",
             "caption_1": "Blooming Flower",
@@ -180,7 +178,6 @@
         },
         "image_3AqytE": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Kids_Bath_Sponges.png",
             "caption_1": "Fun & Soft Kids",
@@ -263,7 +260,6 @@
         },
         "image_L9HFJd": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Exfoliating_Gloves_e7ad18b5-967a-459e-ac7d-9cedce0cb699.png",
             "caption_1": "Deep Clean",
@@ -346,7 +342,6 @@
         },
         "image_FPf7rT": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Back_Body_Scrubbers.png",
             "caption_1": "Long-Handle Back",
