@@ -144,20 +144,6 @@
         "distance_bottom": 30
       }
     },
-    "436a868c-889a-4ac7-8958-e6d4b6b6d5cd": {
-      "type": "nov-line",
-      "settings": {
-        "height": 1,
-        "color": "#d9d9d9",
-        "style": "solid",
-        "opacity": 100,
-        "animate": false,
-        "container": "container",
-        "class": "",
-        "distance_top": 30,
-        "distance_bottom": 30
-      }
-    },
     "e0b5f762-dd19-4e02-bd66-eb1acd452996": {
       "type": "nov-img-text",
       "blocks": {
@@ -241,7 +227,6 @@
   "order": [
     "main",
     "1660960323abfb3055",
-    "436a868c-889a-4ac7-8958-e6d4b6b6d5cd",
     "e0b5f762-dd19-4e02-bd66-eb1acd452996"
   ]
 }
