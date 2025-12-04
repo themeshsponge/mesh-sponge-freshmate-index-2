@@ -372,7 +372,7 @@
           "cf0bc072-78be-4842-9af7-8d099b99a8e9": {
             "type": "icon_menu",
             "settings": {
-              "name_item": "Bundles & Gift Sets",
+              "name_item": "Bundles",
               "desc": "",
               "icon_menus": "shopify://shop_images/gift_1.png"
             }
