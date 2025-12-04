@@ -686,19 +686,8 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/top-collection-1.png",
             "link": "shopify://collections/fresh-fruits",
             "cta_label": "Shower Poufs",
-            "desc": "",
-            "class": ""
-          }
-        },
-        "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "shopify://collections/frontpage",
-            "cta_label": "Loofah",
             "desc": "",
             "class": ""
           }
@@ -706,7 +695,6 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/top-collection-2.png",
             "link": "shopify://collections/drink",
             "cta_label": "Flower Bath Sponges",
             "desc": "",
@@ -716,7 +704,6 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/top-collection-3.png",
             "link": "shopify://collections/burgers",
             "cta_label": "Kids Bath Sponges",
             "desc": "",
@@ -726,7 +713,6 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/top-collection-4.png",
             "link": "shopify://collections/salmon",
             "cta_label": "Exfoliating Gloves",
             "desc": "",
@@ -736,19 +722,8 @@
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-5": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/top-collection-5.png",
             "link": "shopify://collections/meat",
             "cta_label": "Back Body Scrubbers",
-            "desc": "",
-            "class": ""
-          }
-        },
-        "image_TU4d3U": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "shopify://collections/meat",
-            "cta_label": "Bath Mitt",
             "desc": "",
             "class": ""
           }
@@ -756,7 +731,6 @@
         "image_QcLD6m": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/top-collection-6_8898b296-71c7-438d-9e0e-6a50cec164b6.png",
             "link": "shopify://collections/meat",
             "cta_label": "Accessories",
             "desc": "",
@@ -766,12 +740,10 @@
       },
       "block_order": [
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-0",
-        "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-1",
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-2",
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-3",
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-4",
         "template--19750113837336__b0d9048d-a1d0-4533-93da-da4ca0b09c0e-16897550578505ab1a-5",
-        "image_TU4d3U",
         "image_QcLD6m"
       ],
       "settings": {
