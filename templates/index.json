@@ -688,7 +688,7 @@
           "settings": {
             "image": "shopify://shop_images/top-collection-1.png",
             "link": "shopify://collections/fresh-fruits",
-            "cta_label": "Shower Pouf",
+            "cta_label": "Shower Poufs",
             "desc": "",
             "class": ""
           }
@@ -708,7 +708,7 @@
           "settings": {
             "image": "shopify://shop_images/top-collection-2.png",
             "link": "shopify://collections/drink",
-            "cta_label": "Body Brush",
+            "cta_label": "Flower Bath Sponges",
             "desc": "",
             "class": ""
           }
@@ -718,7 +718,7 @@
           "settings": {
             "image": "shopify://shop_images/top-collection-3.png",
             "link": "shopify://collections/burgers",
-            "cta_label": "Exfoliating Glove",
+            "cta_label": "Kids Bath Sponges",
             "desc": "",
             "class": ""
           }
@@ -728,7 +728,7 @@
           "settings": {
             "image": "shopify://shop_images/top-collection-4.png",
             "link": "shopify://collections/salmon",
-            "cta_label": "Bath Sponge",
+            "cta_label": "Exfoliating Gloves",
             "desc": "",
             "class": ""
           }
@@ -738,7 +738,7 @@
           "settings": {
             "image": "shopify://shop_images/top-collection-5.png",
             "link": "shopify://collections/meat",
-            "cta_label": "Back Scrubber",
+            "cta_label": "Back Body Scrubbers",
             "desc": "",
             "class": ""
           }
