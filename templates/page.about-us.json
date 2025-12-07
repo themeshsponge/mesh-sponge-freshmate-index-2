@@ -217,9 +217,10 @@
         "image_6xAcNN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Braces_Removed_Portrait.png",
             "link": "",
             "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
             "class": ""
           }
         },
@@ -228,7 +229,7 @@
           "settings": {
             "link": "",
             "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
             "class": ""
           }
         },
@@ -249,41 +250,21 @@
             "desc": "<p>More than 40 different <br>types of fruit.</p>",
             "class": ""
           }
-        },
-        "image_Pr67HT": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
-            "class": ""
-          }
-        },
-        "image_jemnVd": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
-            "class": ""
-          }
         }
       },
       "block_order": [
         "image_6xAcNN",
         "image_KtmjMa",
         "image_e8eDEE",
-        "image_77h7fk",
-        "image_Pr67HT",
-        "image_jemnVd"
+        "image_77h7fk"
       ],
       "name": "Vinova Image Link",
       "settings": {
         "heading": "<p>Our Team</p>",
         "heading_c": "#222222",
         "title_alignment": "text-center",
-        "xxl": 6,
-        "xl": 6,
+        "xxl": 4,
+        "xl": 4,
         "lg": 4,
         "md": 3,
         "sm": 2,
