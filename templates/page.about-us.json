@@ -210,11 +210,104 @@
         "distance_top": 30,
         "distance_bottom": 30
       }
+    },
+    "nov_img_link_KLN3Q3": {
+      "type": "nov-img-link",
+      "blocks": {
+        "image_6xAcNN": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_KtmjMa": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_e8eDEE": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_77h7fk": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_Pr67HT": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_jemnVd": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6xAcNN",
+        "image_KtmjMa",
+        "image_e8eDEE",
+        "image_77h7fk",
+        "image_Pr67HT",
+        "image_jemnVd"
+      ],
+      "name": "Vinova Image Link",
+      "settings": {
+        "heading": "<p>Our Team</p>",
+        "heading_c": "#222222",
+        "title_alignment": "text-center",
+        "xxl": 6,
+        "xl": 6,
+        "lg": 4,
+        "md": 3,
+        "sm": 2,
+        "xs": 2,
+        "row_number": 1,
+        "row_mobile": 1,
+        "show_dot": false,
+        "block_alignment": "text-center",
+        "t_c": "#222222",
+        "st_c": "#434343",
+        "animate": true,
+        "container": "container",
+        "background_color": "",
+        "bg_size": "full",
+        "class_section": "",
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
     }
   },
   "order": [
     "main",
     "1660960323abfb3055",
-    "e0b5f762-dd19-4e02-bd66-eb1acd452996"
+    "e0b5f762-dd19-4e02-bd66-eb1acd452996",
+    "nov_img_link_KLN3Q3"
   ]
 }
