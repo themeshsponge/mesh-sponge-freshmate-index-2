@@ -815,7 +815,6 @@
         "animate": true,
         "container": "container",
         "background_color": "rgba(0,0,0,0)",
-        "background_image": "shopify://shop_images/Clean_Studio_Background.png",
         "class": "",
         "px": 0,
         "distance_top": 90,
