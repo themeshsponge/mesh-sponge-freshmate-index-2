@@ -814,7 +814,7 @@
         "phone_icon": "rbb-icon-phone-4",
         "animate": true,
         "container": "container",
-        "background_color": "",
+        "background_color": "#e7e8eb",
         "class": "",
         "px": 0,
         "distance_top": 90,
