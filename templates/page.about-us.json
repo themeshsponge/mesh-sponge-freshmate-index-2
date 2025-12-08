@@ -20,6 +20,7 @@
         },
         "3b132045-2d40-4e4a-beac-9bcf8cda2932": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Our Story",
             "color_title": "#232630",
@@ -32,6 +33,7 @@
         },
         "text_w77Aij": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "A JOURNEY BUILT WITH HEART",
             "color_title": "#232630",
@@ -44,6 +46,7 @@
         },
         "text_rwjhWw": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "",
             "color_title": "#232630",
@@ -56,6 +59,7 @@
         },
         "text_wgihNU": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "",
             "color_title": "#232630",
@@ -68,6 +72,7 @@
         },
         "text_Pw4egg": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "",
             "color_title": "#232630",
@@ -80,6 +85,7 @@
         },
         "0e2d07ef-c64c-4922-a3af-a8c60a55a04a": {
           "type": "quote",
+          "disabled": true,
           "settings": {
             "background_color": "#f1f1f1",
             "image_quote": "shopify://shop_images/Complete_Bath_Accessory_Display.png",
@@ -239,7 +245,7 @@
         "dots_c": "",
         "dots_ca": "",
         "width_text": "col-lg-12",
-        "alignment": "text-center",
+        "alignment": "text-left",
         "text_position_horizontal": "center",
         "text_position_vertical": "center",
         "spacing_horizontal": 0,
@@ -336,7 +342,7 @@
         "dots_c": "",
         "dots_ca": "",
         "width_text": "col-lg-12",
-        "alignment": "text-center",
+        "alignment": "text-left",
         "text_position_horizontal": "center",
         "text_position_vertical": "center",
         "spacing_horizontal": 0,
