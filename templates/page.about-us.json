@@ -139,7 +139,7 @@
         "7bdf095c-a57b-4673-bd1c-8a497ea7ad35": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Mesh Sponge™<br/></strong>LOVE FOR COMFORT</p>",
+            "text": "<p><strong>Mesh Sponge™</strong></p>",
             "tb_c": "",
             "t_s": 22,
             "t_s_md": 18,
@@ -151,6 +151,23 @@
             "t_lt": "0",
             "t_m": 1320,
             "distance_bottom": 20
+          }
+        },
+        "text_AY4BFW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LOVE FOR COMFORT</p>",
+            "tb_c": "",
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_df",
+            "t_fw": "font-800",
+            "t_tt": "none",
+            "t_lh": "0",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 40
           }
         },
         "22b08cd0-39c0-4d7b-ad29-100877b35ac2": {
@@ -173,6 +190,7 @@
       },
       "block_order": [
         "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
+        "text_AY4BFW",
         "22b08cd0-39c0-4d7b-ad29-100877b35ac2"
       ],
       "settings": {
@@ -218,7 +236,7 @@
         "text_Gg3cKJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Mesh Sponge™<br/></strong>LOVE FOR COMFORT</p>",
+            "text": "<p>CAREFULLY CHOSEN<strong><br/></strong>LOVE FOR COMFORT</p>",
             "tb_c": "",
             "t_s": 22,
             "t_s_md": 18,
