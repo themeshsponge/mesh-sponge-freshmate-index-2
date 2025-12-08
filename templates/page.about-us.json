@@ -133,6 +133,79 @@
         "distance_bottom": 200
       }
     },
+    "nov_img_link_KLN3Q3": {
+      "type": "nov-img-link",
+      "blocks": {
+        "image_6xAcNN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Braces_Removed_Portrait.png",
+            "link": "",
+            "cta_label": "Bao Anh Huynh",
+            "desc": "<p>CEO/Founder</p>",
+            "class": ""
+          }
+        },
+        "image_KtmjMa": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_e8eDEE": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        },
+        "image_77h7fk": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "cta_label": "Fresh Fruit",
+            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "class": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6xAcNN",
+        "image_KtmjMa",
+        "image_e8eDEE",
+        "image_77h7fk"
+      ],
+      "name": "Vinova Image Link",
+      "settings": {
+        "heading": "<p>MEET THE PEOPLE BEHIND THE BRAND</p>",
+        "heading_c": "#222222",
+        "title_alignment": "text-center",
+        "xxl": 4,
+        "xl": 4,
+        "lg": 4,
+        "md": 3,
+        "sm": 2,
+        "xs": 2,
+        "row_number": 1,
+        "row_mobile": 1,
+        "show_dot": false,
+        "block_alignment": "text-center",
+        "t_c": "#222222",
+        "st_c": "#434343",
+        "animate": true,
+        "container": "container",
+        "background_color": "",
+        "bg_size": "full",
+        "class_section": "",
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
     "1660960323abfb3055": {
       "type": "nov-img-text",
       "blocks": {
@@ -521,89 +594,16 @@
         "distance_top": 30,
         "distance_bottom": 30
       }
-    },
-    "nov_img_link_KLN3Q3": {
-      "type": "nov-img-link",
-      "blocks": {
-        "image_6xAcNN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Braces_Removed_Portrait.png",
-            "link": "",
-            "cta_label": "Bao Anh Huynh",
-            "desc": "<p>CEO/Founder</p>",
-            "class": ""
-          }
-        },
-        "image_KtmjMa": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
-            "class": ""
-          }
-        },
-        "image_e8eDEE": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
-            "class": ""
-          }
-        },
-        "image_77h7fk": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
-            "class": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_6xAcNN",
-        "image_KtmjMa",
-        "image_e8eDEE",
-        "image_77h7fk"
-      ],
-      "name": "Vinova Image Link",
-      "settings": {
-        "heading": "<p>MEET THE PEOPLE BEHIND THE BRAND</p>",
-        "heading_c": "#222222",
-        "title_alignment": "text-center",
-        "xxl": 4,
-        "xl": 4,
-        "lg": 4,
-        "md": 3,
-        "sm": 2,
-        "xs": 2,
-        "row_number": 1,
-        "row_mobile": 1,
-        "show_dot": false,
-        "block_alignment": "text-center",
-        "t_c": "#222222",
-        "st_c": "#434343",
-        "animate": true,
-        "container": "container",
-        "background_color": "",
-        "bg_size": "full",
-        "class_section": "",
-        "distance_top": 30,
-        "distance_bottom": 30
-      }
     }
   },
   "order": [
     "main",
+    "nov_img_link_KLN3Q3",
     "nov_text_GFqfnp",
     "1660960323abfb3055",
     "nov_img_text_WNPEYE",
     "nov_img_text_YxXhTq",
     "nov_text_hV7ErH",
-    "nov_gallery_image2_Twe3nT",
-    "nov_img_link_KLN3Q3"
+    "nov_gallery_image2_Twe3nT"
   ]
 }
