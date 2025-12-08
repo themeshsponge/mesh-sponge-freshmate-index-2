@@ -365,6 +365,105 @@
         "text_7PGdCy",
         "text_DQhERe"
       ],
+      "name": "LOVE FOR COMFORT",
+      "settings": {
+        "heading": "",
+        "heading_c": "#222222",
+        "subheading": "",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "image": "shopify://shop_images/Stacked_Poufs_Accessories.png",
+        "width_img": "col-lg-6",
+        "image_object_fit": "cover",
+        "image_size": "full",
+        "img_radius": 0,
+        "position_lg": "right",
+        "position": "right",
+        "image_animate": true,
+        "autoplay": false,
+        "time": 3,
+        "show_dots": false,
+        "dots_c": "",
+        "dots_ca": "",
+        "width_text": "col-lg-6",
+        "alignment": "text-left",
+        "text_position_horizontal": "center",
+        "text_position_vertical": "center",
+        "spacing_horizontal": 0,
+        "animate": true,
+        "spacing": 30,
+        "br_container": 0,
+        "container": "container",
+        "background_color": "",
+        "gradient": "",
+        "bg_size": "full",
+        "class": "",
+        "px": 0,
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
+    "nov_img_text_6QMH37": {
+      "type": "nov-img-text",
+      "blocks": {
+        "text_tyaGmX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>OUR FABRICS</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 20
+          }
+        },
+        "text_6AkE9H": {
+          "type": "text",
+          "settings": {
+            "text": "<p>PREMIUM QUALITY, DESIGNED FOR YOU</p>",
+            "tb_c": "",
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-700",
+            "t_tt": "capitalize",
+            "t_lh": "0",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 40
+          }
+        },
+        "text_EJw8z8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re passionate about the materials that make our products feel as good as they look. Every fabric is carefully selected for comfort, durability, and style—so you can enjoy pieces that look luxurious and last longer. Explore our collection and feel the difference in every touch!</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_tyaGmX",
+        "text_6AkE9H",
+        "text_EJw8z8"
+      ],
+      "name": "OUR FABRICS",
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -462,6 +561,7 @@
         "text_tC73XY",
         "text_XRNqhQ"
       ],
+      "name": "OUR PACKAGING",
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -559,6 +659,7 @@
         "text_YkJ6Hb",
         "text_4EHfrr"
       ],
+      "name": "GET TO KNOW US",
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -603,6 +704,7 @@
     "nov_img_link_KLN3Q3",
     "nov_text_GFqfnp",
     "nov_img_text_thrjBL",
+    "nov_img_text_6QMH37",
     "nov_img_text_WNPEYE",
     "nov_img_text_YxXhTq"
   ]
