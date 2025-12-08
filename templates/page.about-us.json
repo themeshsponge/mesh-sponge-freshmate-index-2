@@ -327,19 +327,19 @@
         "distance_bottom": 30
       }
     },
-    "nov_img_text_iTJfqi": {
+    "nov_img_text_YxXhTq": {
       "type": "nov-img-text",
       "blocks": {
-        "text_rham3V": {
+        "text_gUxzAC": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>What We Offer</strong></p>",
+            "text": "<p>WEEKLY VLOGS</p>",
             "tb_c": "",
-            "t_s": 22,
-            "t_s_md": 18,
+            "t_s": 16,
+            "t_s_md": 16,
             "t_c": "#0d2235",
-            "ff": "f_df",
-            "t_fw": "font-800",
+            "ff": "f_pr",
+            "t_fw": "font-400",
             "t_tt": "none",
             "t_lh": "1.5",
             "t_lt": "0",
@@ -347,13 +347,30 @@
             "distance_bottom": 20
           }
         },
-        "text_abNqcR": {
+        "text_YkJ6Hb": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer a carefully curated collection of refined essentials designed to elevate everyday life. Each product is selected for its exceptional quality, timeless design, and thoughtful functionality. From indulgent body care to elegant accessories and lifestyle pieces, our offerings bring a sense of luxury and ease to your daily routine. Every item reflects our commitment to sophistication, comfort, and lasting value—allowing you to enjoy beautiful, well-made products that feel as good as they look.</p>",
+            "text": "<p>GET TO KNOW US</p>",
             "tb_c": "",
-            "t_s": 14,
-            "t_s_md": 14,
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-700",
+            "t_tt": "capitalize",
+            "t_lh": "0",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 40
+          }
+        },
+        "text_4EHfrr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Want to see what life looks like behind the brand? Our YouTube channel takes you along for everything—new products we’re testing, daily routines, business wins and fails, and all the real moments of running a small business. Come be part of the journey! #MeshSponge</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
             "t_c": "#505157",
             "ff": "f_df",
             "t_fw": "font-400",
@@ -366,17 +383,18 @@
         }
       },
       "block_order": [
-        "text_rham3V",
-        "text_abNqcR"
+        "text_gUxzAC",
+        "text_YkJ6Hb",
+        "text_4EHfrr"
       ],
       "settings": {
         "heading": "",
         "heading_c": "#222222",
         "subheading": "",
         "subheading_c": "#666666",
-        "title_alignment": "text-left",
-        "image": "shopify://shop_images/Premium_Flat-Lay.png",
-        "width_img": "col-lg-4",
+        "title_alignment": "text-center",
+        "image": "shopify://shop_images/Stacked_Poufs_Accessories.png",
+        "width_img": "col-lg-6",
         "image_object_fit": "cover",
         "image_size": "full",
         "img_radius": 0,
@@ -388,86 +406,7 @@
         "show_dots": false,
         "dots_c": "",
         "dots_ca": "",
-        "width_text": "col-lg-8",
-        "alignment": "text-left",
-        "text_position_horizontal": "center",
-        "text_position_vertical": "center",
-        "spacing_horizontal": 0,
-        "animate": true,
-        "spacing": 30,
-        "br_container": 0,
-        "container": "container",
-        "background_color": "",
-        "gradient": "",
-        "bg_size": "full",
-        "class": "",
-        "px": 0,
-        "distance_top": 30,
-        "distance_bottom": 30
-      }
-    },
-    "e0b5f762-dd19-4e02-bd66-eb1acd452996": {
-      "type": "nov-img-text",
-      "blocks": {
-        "fa6eaa9d-f8dd-4297-bbd9-5fd0bd528ffb": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Why Shop with Us?</strong></p>",
-            "tb_c": "",
-            "t_s": 22,
-            "t_s_md": 18,
-            "t_c": "#222222",
-            "ff": "f_df",
-            "t_fw": "font-800",
-            "t_tt": "none",
-            "t_lh": "1.5",
-            "t_lt": "0",
-            "t_m": 1320,
-            "distance_bottom": 20
-          }
-        },
-        "46058ecb-b439-43a4-bf10-8e2e8f43bbff": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Shopping with us means choosing quality, care, and attention to detail at every step. We strive to provide an experience that is as seamless and enjoyable as the products we offer. Every item is carefully selected for its excellence and durability, ensuring that you receive both style and substance. With a focus on customer satisfaction, thoughtful design, and everyday elegance, we aim to make every purchase feel effortless, rewarding, and distinctly premium.</p>",
-            "tb_c": "",
-            "t_s": 14,
-            "t_s_md": 13,
-            "t_c": "#505157",
-            "ff": "f_df",
-            "t_fw": "font-400",
-            "t_tt": "none",
-            "t_lh": "1.9",
-            "t_lt": "0",
-            "t_m": 1320,
-            "distance_bottom": 5
-          }
-        }
-      },
-      "block_order": [
-        "fa6eaa9d-f8dd-4297-bbd9-5fd0bd528ffb",
-        "46058ecb-b439-43a4-bf10-8e2e8f43bbff"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_c": "#222222",
-        "subheading": "",
-        "subheading_c": "#666666",
-        "title_alignment": "text-center",
-        "image": "shopify://shop_images/Bright_White_Spa_Flat_Lay.png",
-        "width_img": "col-lg-4",
-        "image_object_fit": "cover",
-        "image_size": "full",
-        "img_radius": 0,
-        "position_lg": "left",
-        "position": "left",
-        "image_animate": true,
-        "autoplay": false,
-        "time": 3,
-        "show_dots": false,
-        "dots_c": "",
-        "dots_ca": "",
-        "width_text": "col-lg-8",
+        "width_text": "col-lg-6",
         "alignment": "text-left",
         "text_position_horizontal": "center",
         "text_position_vertical": "center",
@@ -564,8 +503,7 @@
     "nov_text_GFqfnp",
     "1660960323abfb3055",
     "nov_img_text_WNPEYE",
-    "nov_img_text_iTJfqi",
-    "e0b5f762-dd19-4e02-bd66-eb1acd452996",
+    "nov_img_text_YxXhTq",
     "nov_img_link_KLN3Q3"
   ]
 }
