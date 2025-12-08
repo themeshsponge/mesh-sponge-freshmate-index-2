@@ -548,7 +548,7 @@
         "image_object_fit": "cover",
         "image_size": "full",
         "img_radius": 0,
-        "position_lg": "right",
+        "position_lg": "left",
         "position": "right",
         "image_animate": true,
         "autoplay": false,
