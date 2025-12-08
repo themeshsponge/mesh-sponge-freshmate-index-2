@@ -197,7 +197,7 @@
             "image": "shopify://shop_images/Braces_Removed_Portrait.png",
             "link": "",
             "cta_label": "Bao Anh Huynh",
-            "desc": "<p>CEO/Founder</p>",
+            "desc": "<p>CEO & Founder</p>",
             "class": ""
           }
         },
@@ -206,8 +206,8 @@
           "settings": {
             "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085339.286.png",
             "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
+            "cta_label": "Hana Lee",
+            "desc": "<p>Creative Content Designer</p>",
             "class": ""
           }
         },
@@ -226,8 +226,8 @@
           "settings": {
             "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085554.824.png",
             "link": "",
-            "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
+            "cta_label": "Minh Nguyen",
+            "desc": "<p>Packing & Shipping Coordinator</p>",
             "class": ""
           }
         }
