@@ -92,6 +92,47 @@
       ],
       "settings": {}
     },
+    "nov_text_GFqfnp": {
+      "type": "nov-text",
+      "blocks": {
+        "text_QB7zLQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vinova Text</p>",
+            "tb_c": "",
+            "t_s": 13,
+            "t_s_md": 13,
+            "t_c": "#222222",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_QB7zLQ"
+      ],
+      "name": "Vinova Text",
+      "settings": {
+        "title_alignment": "text-left",
+        "show_seemore": false,
+        "animate": true,
+        "br_container": 0,
+        "show_boxshadow": false,
+        "c_boxshadow": "",
+        "container": "container",
+        "background_color": "",
+        "background_image": "shopify://shop_images/flat-lay-bath-items-wooden-background.jpg",
+        "bg_size": "full",
+        "class": "",
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
     "1660960323abfb3055": {
       "type": "nov-img-text",
       "blocks": {
@@ -405,6 +446,7 @@
   },
   "order": [
     "main",
+    "nov_text_GFqfnp",
     "1660960323abfb3055",
     "nov_img_text_iTJfqi",
     "e0b5f762-dd19-4e02-bd66-eb1acd452996",
