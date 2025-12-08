@@ -224,6 +224,7 @@
         "image_77h7fk": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Minh_Nguyen_-_Packing_Shipping_Coordinator.png",
             "link": "",
             "cta_label": "Minh Nguyen",
             "desc": "<p>Packing & Shipping Coordinator</p>",
