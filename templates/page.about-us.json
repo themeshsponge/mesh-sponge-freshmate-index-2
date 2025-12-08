@@ -596,59 +596,6 @@
         "distance_bottom": 30
       }
     },
-    "nov_img_text4_KWHLgC": {
-      "type": "nov-img-text4",
-      "blocks": {
-        "text_content_c6mNLf": {
-          "type": "text-content",
-          "settings": {
-            "title_block": "<p>altitude</p>",
-            "desc_block": "<p>Up to ca. 800M</p>"
-          }
-        },
-        "text_content_3XQhWN": {
-          "type": "text-content",
-          "settings": {
-            "title_block": "<p>altitude</p>",
-            "desc_block": "<p>Up to ca. 800M</p>"
-          }
-        },
-        "text_content_KQRBxm": {
-          "type": "text-content",
-          "settings": {
-            "title_block": "<p>altitude</p>",
-            "desc_block": "<p>Up to ca. 800M</p>"
-          }
-        },
-        "text_content_CGFh9f": {
-          "type": "text-content",
-          "settings": {
-            "title_block": "<p>altitude</p>",
-            "desc_block": "<p>Up to ca. 800M</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_content_c6mNLf",
-        "text_content_3XQhWN",
-        "text_content_KQRBxm",
-        "text_content_CGFh9f"
-      ],
-      "name": "Vinova Image Width Text 4",
-      "settings": {
-        "heading": "<p>Premium Coffee Beans</p>",
-        "heading_c": "#222222",
-        "subheading_c": "#505157",
-        "subheading": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam risus nibh, feugiat nec sapien ac, faucibus luctus odio. Nam nec porta leo. Donec scelerisque libero ac luctus aliquam. Integer fringilla sed dui euismod placerat. Fusce vitae odio est. Nulla id eros mi. Integer vitae mauris et felis pulvinar pellentesque. Praesent a auctor odio. Morbi lacinia aliquet augue, non auctor ipsum vehicula a. </p>",
-        "block_alignment": "text-center",
-        "animate": true,
-        "container": "container",
-        "background_color": "",
-        "class": "",
-        "distance_top": 30,
-        "distance_bottom": 30
-      }
-    },
     "nov_text_hV7ErH": {
       "type": "nov-text",
       "blocks": {
@@ -756,7 +703,6 @@
     "nov_img_text_thrjBL",
     "nov_img_text_WNPEYE",
     "nov_img_text_YxXhTq",
-    "nov_img_text4_KWHLgC",
     "nov_text_hV7ErH",
     "nov_gallery_image2_Twe3nT"
   ]
