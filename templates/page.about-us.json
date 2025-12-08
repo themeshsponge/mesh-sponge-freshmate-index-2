@@ -92,21 +92,55 @@
       ],
       "settings": {}
     },
-    "nov_text_GFqfnp": {
-      "type": "nov-text",
+    "1660960323abfb3055": {
+      "type": "nov-img-text",
       "blocks": {
-        "text_QB7zLQ": {
+        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35": {
           "type": "text",
           "settings": {
-            "text": "<p>Discovering the Beauty of Everyday Care</p>",
+            "text": "<p>OUR TEAM</p>",
             "tb_c": "",
-            "t_s": 101,
-            "t_s_md": 50,
-            "t_c": "#ffffff",
-            "ff": "f_df",
-            "t_fw": "font-500",
-            "t_tt": "uppercase",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-400",
+            "t_tt": "none",
             "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 20
+          }
+        },
+        "text_AY4BFW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>THE HEART OF OUR BUSINESS</p>",
+            "tb_c": "",
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-700",
+            "t_tt": "capitalize",
+            "t_lh": "0",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 40
+          }
+        },
+        "22b08cd0-39c0-4d7b-ad29-100877b35ac2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Behind every product you see is a team that works with intention, creativity, and a whole lot of love. We’re a family-driven brand, and each member brings something special to the table. Meet the people who curate, prepare, test, and celebrate every item that makes its way to your home.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
             "t_lt": "0",
             "t_m": 1320,
             "distance_bottom": 5
@@ -114,23 +148,44 @@
         }
       },
       "block_order": [
-        "text_QB7zLQ"
+        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
+        "text_AY4BFW",
+        "22b08cd0-39c0-4d7b-ad29-100877b35ac2"
       ],
-      "name": "Vinova Text",
       "settings": {
+        "heading": "",
+        "heading_c": "#222222",
+        "subheading": "",
+        "subheading_c": "#666666",
         "title_alignment": "text-center",
-        "show_seemore": false,
+        "width_img": "col-lg-6",
+        "image_object_fit": "cover",
+        "image_size": "full",
+        "img_radius": 0,
+        "position_lg": "right",
+        "position": "right",
+        "image_animate": true,
+        "autoplay": false,
+        "time": 3,
+        "show_dots": false,
+        "dots_c": "",
+        "dots_ca": "",
+        "width_text": "col-lg-12",
+        "alignment": "text-left",
+        "text_position_horizontal": "center",
+        "text_position_vertical": "center",
+        "spacing_horizontal": 0,
         "animate": true,
+        "spacing": 30,
         "br_container": 0,
-        "show_boxshadow": false,
-        "c_boxshadow": "",
-        "container": "container-full",
+        "container": "container",
         "background_color": "",
-        "background_image": "shopify://shop_images/Complete_Bath_Accessory_Display.png",
+        "gradient": "",
         "bg_size": "full",
-        "class": "mt-100 mb-60",
-        "distance_top": 200,
-        "distance_bottom": 200
+        "class": "",
+        "px": 0,
+        "distance_top": 30,
+        "distance_bottom": 30
       }
     },
     "nov_img_link_KLN3Q3": {
@@ -182,7 +237,7 @@
       ],
       "name": "Vinova Image Link",
       "settings": {
-        "heading": "<p>MEET THE PEOPLE BEHIND THE BRAND</p>",
+        "heading": "",
         "heading_c": "#222222",
         "title_alignment": "text-center",
         "xxl": 4,
@@ -206,10 +261,51 @@
         "distance_bottom": 30
       }
     },
-    "1660960323abfb3055": {
+    "nov_text_GFqfnp": {
+      "type": "nov-text",
+      "blocks": {
+        "text_QB7zLQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discovering the Beauty of Everyday Care</p>",
+            "tb_c": "",
+            "t_s": 101,
+            "t_s_md": 50,
+            "t_c": "#ffffff",
+            "ff": "f_df",
+            "t_fw": "font-500",
+            "t_tt": "uppercase",
+            "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_QB7zLQ"
+      ],
+      "name": "Vinova Text",
+      "settings": {
+        "title_alignment": "text-center",
+        "show_seemore": false,
+        "animate": true,
+        "br_container": 0,
+        "show_boxshadow": false,
+        "c_boxshadow": "",
+        "container": "container-full",
+        "background_color": "",
+        "background_image": "shopify://shop_images/Complete_Bath_Accessory_Display.png",
+        "bg_size": "full",
+        "class": "mt-100 mb-60",
+        "distance_top": 200,
+        "distance_bottom": 200
+      }
+    },
+    "nov_img_text_thrjBL": {
       "type": "nov-img-text",
       "blocks": {
-        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35": {
+        "text_9J7BT3": {
           "type": "text",
           "settings": {
             "text": "<p>Mesh Sponge™</p>",
@@ -226,7 +322,7 @@
             "distance_bottom": 20
           }
         },
-        "text_AY4BFW": {
+        "text_7PGdCy": {
           "type": "text",
           "settings": {
             "text": "<p>LOVE FOR COMFORT</p>",
@@ -243,7 +339,7 @@
             "distance_bottom": 40
           }
         },
-        "22b08cd0-39c0-4d7b-ad29-100877b35ac2": {
+        "text_DQhERe": {
           "type": "text",
           "settings": {
             "text": "<p>What began as a deep appreciation for textures that feel good on the skin grew into a brand built around comfort and quality. We curate bath essentials that turn simple routines into small luxuries. From soft mesh to thoughtful design, each piece represents our family’s love for relaxation, simplicity, and the beauty found in everyday moments.</p>",
@@ -262,9 +358,9 @@
         }
       },
       "block_order": [
-        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
-        "text_AY4BFW",
-        "22b08cd0-39c0-4d7b-ad29-100877b35ac2"
+        "text_9J7BT3",
+        "text_7PGdCy",
+        "text_DQhERe"
       ],
       "settings": {
         "heading": "",
@@ -598,9 +694,10 @@
   },
   "order": [
     "main",
+    "1660960323abfb3055",
     "nov_img_link_KLN3Q3",
     "nov_text_GFqfnp",
-    "1660960323abfb3055",
+    "nov_img_text_thrjBL",
     "nov_img_text_WNPEYE",
     "nov_img_text_YxXhTq",
     "nov_text_hV7ErH",
