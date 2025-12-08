@@ -24,10 +24,22 @@
             "title": "Our Story",
             "color_title": "#232630",
             "fz_title": "22px",
-            "text_content": "Our story began with a simple love for the small moments that make everyday life feel special—warm showers, calming routines, and the comfort of well-chosen essentials. As a family who values self-care and the joy it brings, we found ourselves searching for products that felt gentle, uplifting, and beautifully made. But too often, bath accessories were either overly simple or unnecessarily complicated, lacking the balance of quality, style, and practicality we wanted.",
+            "text_content": "",
             "color_content": "#232630",
             "fz_content": "16px",
             "class": "mt-30"
+          }
+        },
+        "text_w77Aij": {
+          "type": "text",
+          "settings": {
+            "title": "A JOURNEY BUILT WITH HEART",
+            "color_title": "#232630",
+            "fz_title": "22px",
+            "text_content": "Our story began with a simple love for the small moments that make everyday life feel special—warm showers, calming routines, and the comfort of well-chosen essentials. As a family who values self-care and the joy it brings, we found ourselves searching for products that felt gentle, uplifting, and beautifully made. But too often, bath accessories were either overly simple or unnecessarily complicated, lacking the balance of quality, style, and practicality we wanted.",
+            "color_content": "#232630",
+            "fz_content": "16px",
+            "class": ""
           }
         },
         "text_rwjhWw": {
@@ -85,6 +97,7 @@
       "block_order": [
         "36565fd9-4086-4fa5-8c15-db85e063a1b1",
         "3b132045-2d40-4e4a-beac-9bcf8cda2932",
+        "text_w77Aij",
         "text_rwjhWw",
         "text_wgihNU",
         "text_Pw4egg",
@@ -98,7 +111,7 @@
         "7bdf095c-a57b-4673-bd1c-8a497ea7ad35": {
           "type": "text",
           "settings": {
-            "text": "<p>OUR TEAM</p>",
+            "text": "<p>OUR STORY</p>",
             "tb_c": "",
             "t_s": 16,
             "t_s_md": 16,
@@ -115,7 +128,7 @@
         "text_AY4BFW": {
           "type": "text",
           "settings": {
-            "text": "<p>THE HEART OF OUR BUSINESS</p>",
+            "text": "<p>A JOURNEY BUILT WITH HEART</p>",
             "tb_c": "",
             "t_s": 22,
             "t_s_md": 18,
@@ -130,6 +143,157 @@
           }
         },
         "22b08cd0-39c0-4d7b-ad29-100877b35ac2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our story began with a simple love for the small moments that make everyday life feel special—warm showers, calming routines, and the comfort of well-chosen essentials. As a family who values self-care and the joy it brings, we found ourselves searching for products that felt gentle, uplifting, and beautifully made. But too often, bath accessories were either overly simple or unnecessarily complicated, lacking the balance of quality, style, and practicality we wanted.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        },
+        "text_bBtVQD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So we decided to create a place where people like us—people who genuinely enjoy the ritual of caring for themselves—could find thoughtfully selected items that elevate those everyday moments. Rather than making our own products, we became passionate curators, choosing only the essentials that reflect our values: comfort, durability, elegance, and a touch of everyday luxury.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        },
+        "text_HW4j7z": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What started as a small idea soon grew into a mission: to offer a collection of bath and body accessories that feel good, look beautiful, and bring ease into your routine. Every item we choose is carefully evaluated, tested, and loved by our family before it becomes part of yours.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        },
+        "text_frDBWD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Today, our store is more than just a shop—it’s a reflection of our belief that self-care should be accessible, meaningful, and enjoyable. We are not manufacturers; we are lovers of bath essentials who hope to share the best of what we discover with people who appreciate beauty, simplicity, and the little moments of peace they bring.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        }
+      },
+      "block_order": [
+        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
+        "text_AY4BFW",
+        "22b08cd0-39c0-4d7b-ad29-100877b35ac2",
+        "text_bBtVQD",
+        "text_HW4j7z",
+        "text_frDBWD"
+      ],
+      "name": "OUR STORY",
+      "settings": {
+        "heading": "",
+        "heading_c": "#222222",
+        "subheading": "",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "width_img": "col-lg-6",
+        "image_object_fit": "cover",
+        "image_size": "full",
+        "img_radius": 0,
+        "position_lg": "right",
+        "position": "right",
+        "image_animate": true,
+        "autoplay": false,
+        "time": 3,
+        "show_dots": false,
+        "dots_c": "",
+        "dots_ca": "",
+        "width_text": "col-lg-12",
+        "alignment": "text-center",
+        "text_position_horizontal": "center",
+        "text_position_vertical": "center",
+        "spacing_horizontal": 0,
+        "animate": true,
+        "spacing": 30,
+        "br_container": 0,
+        "container": "container",
+        "background_color": "",
+        "gradient": "",
+        "bg_size": "full",
+        "class": "",
+        "px": 0,
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
+    "nov_img_text_aTitrP": {
+      "type": "nov-img-text",
+      "blocks": {
+        "text_d6gq4m": {
+          "type": "text",
+          "settings": {
+            "text": "<p>OUR TEAM</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 20
+          }
+        },
+        "text_MzaAy8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>THE HEART OF OUR BUSINESS</p>",
+            "tb_c": "",
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-700",
+            "t_tt": "capitalize",
+            "t_lh": "0",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 40
+          }
+        },
+        "text_an3fDP": {
           "type": "text",
           "settings": {
             "text": "<p>Behind every product you see is a team that works with intention, creativity, and a whole lot of love. We’re a family-driven brand, and each member brings something special to the table. Meet the people who curate, prepare, test, and celebrate every item that makes its way to your home.</p>",
@@ -148,10 +312,11 @@
         }
       },
       "block_order": [
-        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
-        "text_AY4BFW",
-        "22b08cd0-39c0-4d7b-ad29-100877b35ac2"
+        "text_d6gq4m",
+        "text_MzaAy8",
+        "text_an3fDP"
       ],
+      "name": "OUR TEAM",
       "settings": {
         "heading": "",
         "heading_c": "#222222",
@@ -701,6 +866,7 @@
   "order": [
     "main",
     "1660960323abfb3055",
+    "nov_img_text_aTitrP",
     "nov_img_link_KLN3Q3",
     "nov_text_GFqfnp",
     "nov_img_text_thrjBL",
