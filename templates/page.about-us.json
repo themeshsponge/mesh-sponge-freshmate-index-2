@@ -163,7 +163,7 @@
             "t_c": "#0d2235",
             "ff": "f_pr",
             "t_fw": "font-700",
-            "t_tt": "none",
+            "t_tt": "capitalize",
             "t_lh": "0",
             "t_lt": "0",
             "t_m": 1320,
