@@ -595,104 +595,6 @@
         "distance_top": 30,
         "distance_bottom": 30
       }
-    },
-    "nov_text_hV7ErH": {
-      "type": "nov-text",
-      "blocks": {
-        "text_UNBbeb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discovering the Beauty of Everyday Care</p>",
-            "tb_c": "",
-            "t_s": 101,
-            "t_s_md": 50,
-            "t_c": "#ffffff",
-            "ff": "f_df",
-            "t_fw": "font-500",
-            "t_tt": "uppercase",
-            "t_lh": "1.5",
-            "t_lt": "0",
-            "t_m": 1320,
-            "distance_bottom": 5
-          }
-        }
-      },
-      "block_order": [
-        "text_UNBbeb"
-      ],
-      "name": "Vinova Text",
-      "settings": {
-        "title_alignment": "text-center",
-        "show_seemore": false,
-        "animate": true,
-        "br_container": 0,
-        "show_boxshadow": false,
-        "c_boxshadow": "",
-        "container": "container-full",
-        "background_color": "",
-        "background_image": "shopify://shop_images/Complete_Bath_Accessory_Display.png",
-        "bg_size": "full",
-        "class": "mt-100 mb-60",
-        "distance_top": 200,
-        "distance_bottom": 200
-      }
-    },
-    "nov_gallery_image2_Twe3nT": {
-      "type": "nov-gallery-image2",
-      "blocks": {
-        "image_LXQdtF": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "SPARKLING SAVINGS",
-            "cta_label_c": "#000000",
-            "cta_label_s1": 26,
-            "cta_label2": "Up to 50% off on our luxurious Shower Pouf bundles and bath accessories! Elevate your daily ritual with silky-soft indulgence.",
-            "cta_label_2": "#222222",
-            "cta_label_s2": 14,
-            "banner_button": "SHOP THIS",
-            "banner_color": "#ffffff",
-            "cta_label_bt": 14,
-            "banner_color_hover": "#2ea200",
-            "class": ""
-          }
-        },
-        "image_chjmNM": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "cta_label": "LIMITED-TIME EXCLUSIVE",
-            "cta_label_c": "#000000",
-            "cta_label_s1": 26,
-            "cta_label2": "Grab our Mesh Sponge Gift Sets before they’re gone! Perfect for gifting—or treating yourself—while supplies last.",
-            "cta_label_2": "#222222",
-            "cta_label_s2": 14,
-            "banner_button": "SHOP THIS",
-            "banner_color": "#ffffff",
-            "cta_label_bt": 14,
-            "banner_color_hover": "#2ea200",
-            "class": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_LXQdtF",
-        "image_chjmNM"
-      ],
-      "name": "Vinova Image Gallery 2",
-      "settings": {
-        "col_width": 2,
-        "bd_radius": 20,
-        "spacing": 30,
-        "style_img_1": false,
-        "style_img_2": true,
-        "animate": true,
-        "background_color": "",
-        "container": "container",
-        "class_section": "",
-        "distance_top": 30,
-        "distance_bottom": 30
-      }
     }
   },
   "order": [
@@ -702,8 +604,6 @@
     "nov_text_GFqfnp",
     "nov_img_text_thrjBL",
     "nov_img_text_WNPEYE",
-    "nov_img_text_YxXhTq",
-    "nov_text_hV7ErH",
-    "nov_gallery_image2_Twe3nT"
+    "nov_img_text_YxXhTq"
   ]
 }
