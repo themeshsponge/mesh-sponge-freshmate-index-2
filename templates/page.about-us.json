@@ -204,6 +204,7 @@
         "image_KtmjMa": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085339.286.png",
             "link": "",
             "cta_label": "Fresh Fruit",
             "desc": "<p>More than 40 different <br/>types of fruit.</p>",
@@ -213,18 +214,20 @@
         "image_e8eDEE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085522.367.png",
             "link": "",
             "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
             "class": ""
           }
         },
         "image_77h7fk": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085554.824.png",
             "link": "",
             "cta_label": "Fresh Fruit",
-            "desc": "<p>More than 40 different <br>types of fruit.</p>",
+            "desc": "<p>More than 40 different <br/>types of fruit.</p>",
             "class": ""
           }
         }
