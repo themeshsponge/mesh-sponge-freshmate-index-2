@@ -141,8 +141,8 @@
           "settings": {
             "text": "<p>Mesh Sponge™</p>",
             "tb_c": "",
-            "t_s": 18,
-            "t_s_md": 18,
+            "t_s": 16,
+            "t_s_md": 16,
             "t_c": "#0d2235",
             "ff": "f_pr",
             "t_fw": "font-400",
@@ -205,6 +205,103 @@
         "image_size": "full",
         "img_radius": 0,
         "position_lg": "right",
+        "position": "right",
+        "image_animate": true,
+        "autoplay": false,
+        "time": 3,
+        "show_dots": false,
+        "dots_c": "",
+        "dots_ca": "",
+        "width_text": "col-lg-6",
+        "alignment": "text-left",
+        "text_position_horizontal": "center",
+        "text_position_vertical": "center",
+        "spacing_horizontal": 0,
+        "animate": true,
+        "spacing": 30,
+        "br_container": 0,
+        "container": "container",
+        "background_color": "",
+        "gradient": "",
+        "bg_size": "full",
+        "class": "",
+        "px": 0,
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
+    "nov_img_text_WNPEYE": {
+      "type": "nov-img-text",
+      "blocks": {
+        "text_qHRh3w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>CAREFULLY CHOSEN</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 20
+          }
+        },
+        "text_tC73XY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>OUR PACKAGING</p>",
+            "tb_c": "",
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_pr",
+            "t_fw": "font-700",
+            "t_tt": "capitalize",
+            "t_lh": "0",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 40
+          }
+        },
+        "text_XRNqhQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In our commitment to offering beautiful essentials with thoughtful impact, we choose packaging that is simple, gentle on the environment, and crafted with intention. We prioritize recyclable materials whenever possible to reduce unnecessary waste and support more mindful routines. As we continue improving our packaging, you may receive a mix of updated and original materials in your orders—thank you for growing with us as we work toward a more sustainable future.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_qHRh3w",
+        "text_tC73XY",
+        "text_XRNqhQ"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_c": "#222222",
+        "subheading": "",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "image": "shopify://shop_images/Stacked_Poufs_Accessories.png",
+        "width_img": "col-lg-6",
+        "image_object_fit": "cover",
+        "image_size": "full",
+        "img_radius": 0,
+        "position_lg": "left",
         "position": "right",
         "image_animate": true,
         "autoplay": false,
@@ -466,6 +563,7 @@
     "main",
     "nov_text_GFqfnp",
     "1660960323abfb3055",
+    "nov_img_text_WNPEYE",
     "nov_img_text_iTJfqi",
     "e0b5f762-dd19-4e02-bd66-eb1acd452996",
     "nov_img_link_KLN3Q3"
