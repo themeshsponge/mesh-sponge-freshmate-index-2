@@ -194,7 +194,7 @@
         "image_6xAcNN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Braces_Removed_Portrait.png",
+            "image": "shopify://shop_images/Bao_Anh_Huynh_-_CEO_Founder.png",
             "link": "",
             "cta_label": "Bao Anh Huynh",
             "desc": "<p>CEO & Founder</p>",
@@ -204,17 +204,16 @@
         "image_KtmjMa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085339.286.png",
+            "image": "shopify://shop_images/Aria_Kim_-_Online_Marketing_Specialist.png",
             "link": "",
-            "cta_label": "Emma Brooks",
-            "desc": "<p>Creative Content Designer</p>",
+            "cta_label": "Aria Kim",
+            "desc": "<p>Online Marketing Specialist</p>",
             "class": ""
           }
         },
         "image_e8eDEE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085522.367.png",
             "link": "",
             "cta_label": "Aria Kim",
             "desc": "<p>Online Marketing Specialist</p>",
@@ -224,7 +223,6 @@
         "image_77h7fk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2025-12-08T085554.824.png",
             "link": "",
             "cta_label": "Minh Nguyen",
             "desc": "<p>Packing & Shipping Coordinator</p>",
@@ -653,7 +651,7 @@
             "banner_button": "SHOP THIS",
             "banner_color": "#ffffff",
             "cta_label_bt": 14,
-            "banner_color_hover": "#2EA200",
+            "banner_color_hover": "#2ea200",
             "class": ""
           }
         },
@@ -670,7 +668,7 @@
             "banner_button": "SHOP THIS",
             "banner_color": "#ffffff",
             "cta_label_bt": 14,
-            "banner_color_hover": "#2EA200",
+            "banner_color_hover": "#2ea200",
             "class": ""
           }
         }
