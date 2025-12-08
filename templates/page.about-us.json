@@ -98,7 +98,7 @@
         "7bdf095c-a57b-4673-bd1c-8a497ea7ad35": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>What We Offer</strong></p>",
+            "text": "<p><strong>Mesh Sponge™<br/></strong>LOVE FOR COMFORT</p>",
             "tb_c": "",
             "t_s": 22,
             "t_s_md": 18,
@@ -113,6 +113,85 @@
           }
         },
         "22b08cd0-39c0-4d7b-ad29-100877b35ac2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What began as a deep appreciation for textures that feel good on the skin grew into a brand built around comfort and quality. We curate bath essentials that turn simple routines into small luxuries. From soft mesh to thoughtful design, each piece represents our family’s love for relaxation, simplicity, and the beauty found in everyday moments.</p>",
+            "tb_c": "",
+            "t_s": 16,
+            "t_s_md": 16,
+            "t_c": "#505157",
+            "ff": "f_df",
+            "t_fw": "font-400",
+            "t_tt": "none",
+            "t_lh": "1.9",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 5
+          }
+        }
+      },
+      "block_order": [
+        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
+        "22b08cd0-39c0-4d7b-ad29-100877b35ac2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_c": "#222222",
+        "subheading": "",
+        "subheading_c": "#666666",
+        "title_alignment": "text-center",
+        "image": "shopify://shop_images/Stacked_Poufs_Accessories.png",
+        "width_img": "col-lg-6",
+        "image_object_fit": "cover",
+        "image_size": "full",
+        "img_radius": 0,
+        "position_lg": "right",
+        "position": "right",
+        "image_animate": true,
+        "autoplay": false,
+        "time": 3,
+        "show_dots": false,
+        "dots_c": "",
+        "dots_ca": "",
+        "width_text": "col-lg-6",
+        "alignment": "text-left",
+        "text_position_horizontal": "center",
+        "text_position_vertical": "center",
+        "spacing_horizontal": 0,
+        "animate": true,
+        "spacing": 30,
+        "br_container": 0,
+        "container": "container",
+        "background_color": "",
+        "gradient": "",
+        "bg_size": "full",
+        "class": "",
+        "px": 0,
+        "distance_top": 30,
+        "distance_bottom": 30
+      }
+    },
+    "nov_img_text_iTJfqi": {
+      "type": "nov-img-text",
+      "blocks": {
+        "text_rham3V": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>What We Offer</strong></p>",
+            "tb_c": "",
+            "t_s": 22,
+            "t_s_md": 18,
+            "t_c": "#0d2235",
+            "ff": "f_df",
+            "t_fw": "font-800",
+            "t_tt": "none",
+            "t_lh": "1.5",
+            "t_lt": "0",
+            "t_m": 1320,
+            "distance_bottom": 20
+          }
+        },
+        "text_abNqcR": {
           "type": "text",
           "settings": {
             "text": "<p>We offer a carefully curated collection of refined essentials designed to elevate everyday life. Each product is selected for its exceptional quality, timeless design, and thoughtful functionality. From indulgent body care to elegant accessories and lifestyle pieces, our offerings bring a sense of luxury and ease to your daily routine. Every item reflects our commitment to sophistication, comfort, and lasting value—allowing you to enjoy beautiful, well-made products that feel as good as they look.</p>",
@@ -131,8 +210,8 @@
         }
       },
       "block_order": [
-        "7bdf095c-a57b-4673-bd1c-8a497ea7ad35",
-        "22b08cd0-39c0-4d7b-ad29-100877b35ac2"
+        "text_rham3V",
+        "text_abNqcR"
       ],
       "settings": {
         "heading": "",
@@ -327,6 +406,7 @@
   "order": [
     "main",
     "1660960323abfb3055",
+    "nov_img_text_iTJfqi",
     "e0b5f762-dd19-4e02-bd66-eb1acd452996",
     "nov_img_link_KLN3Q3"
   ]
