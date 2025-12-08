@@ -129,8 +129,8 @@
         "background_image": "shopify://shop_images/flat-lay-bath-items-wooden-background.jpg",
         "bg_size": "full",
         "class": "mt-100 mb-60",
-        "distance_top": 300,
-        "distance_bottom": 300
+        "distance_top": 200,
+        "distance_bottom": 200
       }
     },
     "1660960323abfb3055": {
