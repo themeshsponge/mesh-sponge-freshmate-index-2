@@ -214,9 +214,10 @@
         "image_e8eDEE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Emma_Brooks_-_Creative_Content_Designer.png",
             "link": "",
-            "cta_label": "Aria Kim",
-            "desc": "<p>Online Marketing Specialist</p>",
+            "cta_label": "Emma Brooks",
+            "desc": "<p>Creative Content Designer</p>",
             "class": ""
           }
         },
