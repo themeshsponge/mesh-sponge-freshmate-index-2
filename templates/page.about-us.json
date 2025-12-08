@@ -124,7 +124,7 @@
         "br_container": 0,
         "show_boxshadow": false,
         "c_boxshadow": "",
-        "container": "container",
+        "container": "container-full",
         "background_color": "",
         "background_image": "shopify://shop_images/flat-lay-bath-items-wooden-background.jpg",
         "bg_size": "full",
