@@ -118,7 +118,7 @@
       ],
       "name": "Vinova Text",
       "settings": {
-        "title_alignment": "text-left",
+        "title_alignment": "text-center",
         "show_seemore": false,
         "animate": true,
         "br_container": 0,
